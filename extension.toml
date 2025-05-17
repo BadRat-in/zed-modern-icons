@@ -4,4 +4,4 @@ version = "0.2.0"
 schema_version = 1
 authors = ["Ravindra Singh <rbmorena42@gmail.com>"]
 description = "VSCode icons theme for Zed"
-repository = "https://github.com/rkinnovate/zed-modern-icons"
+repository = "https://github.com/badrat-in/zed-modern-icons"

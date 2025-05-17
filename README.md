@@ -29,4 +29,4 @@ Zed supports detecting the current theme dynamically. You can use that to switch
 
 ---
 
-**Made with ❤️ for the Zed community by [@rkinnovate](https://github.com/rkinnovate)**
+**Made with ❤️ for the Zed community by [@badrat-in](https://github.com/badrat-in)**
