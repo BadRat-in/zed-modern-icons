@@ -14,10 +14,15 @@ This package provides a clean and minimal icon system for file types and technol
 
 Each icon has two variants:
 
-* `file_type_light_{{TYPE}}.svg` — for light theme
-* `file_type_{{TYPE}}.dark.svg` — for dark theme
+- `file_type_light_{{TYPE}}.svg` — for light theme
+- `file_type_{{TYPE}}.dark.svg` — for dark theme
 
 Use the appropriate one based on the current theme.
+
+## 📸 Previews
+
+<img src="./previews/light.png" alt="Light Theme" width="200"/>
+<img src="./previews/dark.png" alt="Dark Theme" width="200"/>
 
 ## 🛠️ Integration Tip
 
