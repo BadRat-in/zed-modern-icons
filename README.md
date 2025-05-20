@@ -30,7 +30,7 @@ Zed supports detecting the current theme dynamically. You can use that to switch
 
 ## 📜 License
 
-[MIT](LICENSE)
+[GNU General Public License v3.0](LICENSE)
 
 ---
 
