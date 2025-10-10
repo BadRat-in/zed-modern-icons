@@ -24,6 +24,28 @@ Use the appropriate one based on the current theme.
 <img src="./previews/light.png" alt="Light Theme" width="200"/>
 <img src="./previews/dark.png" alt="Dark Theme" width="200"/>
 
+## 🌓 Automatic Theme Detection
+
+This extension is theme-aware, but Zed doesn't automatically switch between the light and dark themes by default. You'll need to manually select the appropriate theme ("Modern Icons (Light)" or "Modern Icons (Dark)") when you change Zed's theme.
+
+For automatic theme switching based on your system's appearance, you can add the following configuration to your Zed `settings.json` file. This will sync both your Zed UI theme and the icon theme with your system settings.
+
+```json
+{
+  "theme": {
+    "mode": "system",
+    "light": "Your Light Theme Name",
+    "dark": "Your Dark Theme Name"
+  },
+  "icon_theme": {
+    "mode": "system",
+    "light": "Modern Icons (Light)",
+    "dark": "Modern Icons (Dark)"
+  }
+}
+```
+*(Replace `"Your Light Theme Name"` and `"Your Dark Theme Name"` with the names of your preferred themes.)*
+
 ## 🛠️ Integration Tip
 
 Zed supports detecting the current theme dynamically. You can use that to switch between `*light_{{TYPE}}.svg` and `*_{{TYPE}}.svg` icons at runtime.
