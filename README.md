@@ -33,22 +33,21 @@ For automatic theme switching based on your system's appearance, you can add the
 ```json
 {
   "theme": {
-    "mode": "system",
     "light": "Your Light Theme Name",
     "dark": "Your Dark Theme Name"
   },
   "icon_theme": {
-    "mode": "system",
     "light": "Modern Icons (Light)",
     "dark": "Modern Icons (Dark)"
   }
 }
 ```
-*(Replace `"Your Light Theme Name"` and `"Your Dark Theme Name"` with the names of your preferred themes.)*
 
-## 🛠️ Integration Tip
+_(Replace `"Your Light Theme Name"` and `"Your Dark Theme Name"` with the names of your preferred themes.)_
 
-Zed supports detecting the current theme dynamically. You can use that to switch between `*light_{{TYPE}}.svg` and `*_{{TYPE}}.svg` icons at runtime.
+## 🙏 Acknowledgements
+
+The icons used in this extension are sourced from the [VSCode Icons](https://github.com/vscode-icons/vscode-icons) project. The icons are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International Public License](ICONS_LICENSE), and the original source code for the VSCode extension is licensed under the MIT license. We are grateful to the contributors of that project for their work.
 
 ## 📜 License
 
