@@ -1,0 +1,11 @@
+{
+  "tab_size": 4,
+  "hard_tabs": false,
+  "formatter": "prettier",
+  "prettier": {
+    "printWidth": 80,
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true
+  }
+}
