@@ -80,6 +80,7 @@
                 "tsconfig_official": "tsconfig_official",
                 "typedoc": "typedoc",
                 "unocss": "unocss",
+                "uv.lock": "uv",
                 "view": "view",
                 "vite": "vite",
                 "vite.config.js": "vite",
@@ -4051,6 +4052,9 @@
                 "unocss": {
                     "path": "./icons/file_type_unocss.svg"
                 },
+                "uv": {
+                    "path": "./icons/file_type_uv.svg"
+                },
                 "vagrant": {
                     "path": "./icons/file_type_vagrant.svg"
                 },
@@ -4367,6 +4371,7 @@
                 "tsconfig_official": "tsconfig_official",
                 "typedoc": "typedoc",
                 "unocss": "unocss",
+                "uv.lock": "uv",
                 "view": "view",
                 "vite": "vite",
                 "vite.config.js": "vite",
@@ -8338,6 +8343,9 @@
                 },
                 "unocss": {
                     "path": "./icons/file_type_unocss.svg"
+                },
+                "uv": {
+                    "path": "./icons/file_type_uv.svg"
                 },
                 "vagrant": {
                     "path": "./icons/file_type_vagrant.svg"
