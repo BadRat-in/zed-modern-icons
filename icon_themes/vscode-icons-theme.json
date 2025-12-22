@@ -317,6 +317,8 @@
                 ".bundlemonrc": "bundlemon",
                 "gemfile": "bundler",
                 "gemfile.lock": "bundler",
+                "GEMINI.md": "gemini",
+                "gemini.md": "gemini",
                 "c": "c2",
                 "c3": "c3",
                 "cal": "c_al",
@@ -355,6 +357,7 @@
                 "policyfile.rb": "chef",
                 "class": "class",
                 "claude.md": "claude",
+                "CLAUDE.md": "claude",
                 "circle.yml": "circleci",
                 "cljc": "clojure",
                 "cjm": "clojure",
@@ -2470,6 +2473,9 @@
                 },
                 "gcloud": {
                     "path": "./icons/file_type_gcloud.svg"
+                },
+                "gemini": {
+                    "path": "./icons/file_type_gemini.svg"
                 },
                 "genstat": {
                     "path": "./icons/file_type_genstat.svg"
@@ -4608,6 +4614,8 @@
                 ".bundlemonrc": "bundlemon",
                 "gemfile": "bundler",
                 "gemfile.lock": "bundler",
+                "GEMINI.md": "gemini",
+                "gemini.md": "gemini",
                 "c": "c2",
                 "c3": "c3",
                 "cal": "c_al",
@@ -4646,6 +4654,7 @@
                 "policyfile.rb": "chef",
                 "class": "class",
                 "claude.md": "claude",
+                "CLAUDE.md": "claude",
                 "circle.yml": "circleci",
                 "cljc": "clojure",
                 "cjm": "clojure",
@@ -6762,6 +6771,9 @@
                 },
                 "gcloud": {
                     "path": "./icons/file_type_gcloud.svg"
+                },
+                "gemini": {
+                    "path": "./icons/file_type_gemini.svg"
                 },
                 "genstat": {
                     "path": "./icons/file_type_genstat.svg"
