@@ -358,6 +358,8 @@
                 "class": "class",
                 "claude.md": "claude",
                 "CLAUDE.md": "claude",
+                "AGENTS.md": "agents",
+                "agents.md": "agents",
                 "circle.yml": "circleci",
                 "cljc": "clojure",
                 "cjm": "clojure",
@@ -1999,6 +2001,9 @@
                 },
                 "claude": {
                     "path": "./icons/file_type_claude.svg"
+                },
+                "agents": {
+                    "path": "./icons/file_type_light_agents.svg"
                 },
                 "circleci": {
                     "path": "./icons/file_type_light_circleci.svg"
@@ -4655,6 +4660,8 @@
                 "class": "class",
                 "claude.md": "claude",
                 "CLAUDE.md": "claude",
+                "AGENTS.md": "agents",
+                "agents.md": "agents",
                 "circle.yml": "circleci",
                 "cljc": "clojure",
                 "cjm": "clojure",
@@ -6297,6 +6304,9 @@
                 },
                 "claude": {
                     "path": "./icons/file_type_claude.svg"
+                },
+                "agents": {
+                    "path": "./icons/file_type_agents.svg"
                 },
                 "circleci": {
                     "path": "./icons/file_type_circleci.svg"
