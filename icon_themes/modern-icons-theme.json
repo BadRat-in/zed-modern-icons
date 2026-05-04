@@ -10,6 +10,1292 @@
         "collapsed": "./icons/folder_icons/default_folder.svg",
         "expanded": "./icons/folder_icons/default_folder_opened.svg"
       },
+      "named_directory_icons": {
+        "android": {
+          "collapsed": "./icons/folder_icons/folder_type_android.svg",
+          "expanded": "./icons/folder_icons/folder_type_android_opened.svg"
+        },
+        "angular": {
+          "collapsed": "./icons/folder_icons/folder_type_angular.svg",
+          "expanded": "./icons/folder_icons/folder_type_angular_opened.svg"
+        },
+        ".angular": {
+          "collapsed": "./icons/folder_icons/folder_type_angular.svg",
+          "expanded": "./icons/folder_icons/folder_type_angular_opened.svg"
+        },
+        "api": {
+          "collapsed": "./icons/folder_icons/folder_type_api.svg",
+          "expanded": "./icons/folder_icons/folder_type_api_opened.svg"
+        },
+        "apis": {
+          "collapsed": "./icons/folder_icons/folder_type_api.svg",
+          "expanded": "./icons/folder_icons/folder_type_api_opened.svg"
+        },
+        "app": {
+          "collapsed": "./icons/folder_icons/folder_type_app.svg",
+          "expanded": "./icons/folder_icons/folder_type_app_opened.svg"
+        },
+        "apps": {
+          "collapsed": "./icons/folder_icons/folder_type_app.svg",
+          "expanded": "./icons/folder_icons/folder_type_app_opened.svg"
+        },
+        "arangodb": {
+          "collapsed": "./icons/folder_icons/folder_type_arangodb.svg",
+          "expanded": "./icons/folder_icons/folder_type_arangodb_opened.svg"
+        },
+        "asset": {
+          "collapsed": "./icons/folder_icons/folder_type_asset.svg",
+          "expanded": "./icons/folder_icons/folder_type_asset_opened.svg"
+        },
+        "assets": {
+          "collapsed": "./icons/folder_icons/folder_type_asset.svg",
+          "expanded": "./icons/folder_icons/folder_type_asset_opened.svg"
+        },
+        "static": {
+          "collapsed": "./icons/folder_icons/folder_type_asset.svg",
+          "expanded": "./icons/folder_icons/folder_type_asset_opened.svg"
+        },
+        "astro": {
+          "collapsed": "./icons/folder_icons/folder_type_astro.svg",
+          "expanded": "./icons/folder_icons/folder_type_astro_opened.svg"
+        },
+        ".astro": {
+          "collapsed": "./icons/folder_icons/folder_type_astro.svg",
+          "expanded": "./icons/folder_icons/folder_type_astro_opened.svg"
+        },
+        "audio": {
+          "collapsed": "./icons/folder_icons/folder_type_audio.svg",
+          "expanded": "./icons/folder_icons/folder_type_audio_opened.svg"
+        },
+        "audios": {
+          "collapsed": "./icons/folder_icons/folder_type_audio.svg",
+          "expanded": "./icons/folder_icons/folder_type_audio_opened.svg"
+        },
+        "sound": {
+          "collapsed": "./icons/folder_icons/folder_type_audio.svg",
+          "expanded": "./icons/folder_icons/folder_type_audio_opened.svg"
+        },
+        "sounds": {
+          "collapsed": "./icons/folder_icons/folder_type_audio.svg",
+          "expanded": "./icons/folder_icons/folder_type_audio_opened.svg"
+        },
+        "aurelia": {
+          "collapsed": "./icons/folder_icons/folder_type_aurelia.svg",
+          "expanded": "./icons/folder_icons/folder_type_aurelia_opened.svg"
+        },
+        "aws": {
+          "collapsed": "./icons/folder_icons/folder_type_aws.svg",
+          "expanded": "./icons/folder_icons/folder_type_aws_opened.svg"
+        },
+        ".aws": {
+          "collapsed": "./icons/folder_icons/folder_type_aws.svg",
+          "expanded": "./icons/folder_icons/folder_type_aws_opened.svg"
+        },
+        "azure": {
+          "collapsed": "./icons/folder_icons/folder_type_azure.svg",
+          "expanded": "./icons/folder_icons/folder_type_azure_opened.svg"
+        },
+        ".azure": {
+          "collapsed": "./icons/folder_icons/folder_type_azure.svg",
+          "expanded": "./icons/folder_icons/folder_type_azure_opened.svg"
+        },
+        "azurepipelines": {
+          "collapsed": "./icons/folder_icons/folder_type_azurepipelines.svg",
+          "expanded": "./icons/folder_icons/folder_type_azurepipelines_opened.svg"
+        },
+        "azure-pipelines": {
+          "collapsed": "./icons/folder_icons/folder_type_azurepipelines.svg",
+          "expanded": "./icons/folder_icons/folder_type_azurepipelines_opened.svg"
+        },
+        ".azure-pipelines": {
+          "collapsed": "./icons/folder_icons/folder_type_azurepipelines.svg",
+          "expanded": "./icons/folder_icons/folder_type_azurepipelines_opened.svg"
+        },
+        "bin": {
+          "collapsed": "./icons/folder_icons/folder_type_binary.svg",
+          "expanded": "./icons/folder_icons/folder_type_binary_opened.svg"
+        },
+        "binary": {
+          "collapsed": "./icons/folder_icons/folder_type_binary.svg",
+          "expanded": "./icons/folder_icons/folder_type_binary_opened.svg"
+        },
+        "binaries": {
+          "collapsed": "./icons/folder_icons/folder_type_binary.svg",
+          "expanded": "./icons/folder_icons/folder_type_binary_opened.svg"
+        },
+        "bloc": {
+          "collapsed": "./icons/folder_icons/folder_type_bloc.svg",
+          "expanded": "./icons/folder_icons/folder_type_bloc_opened.svg"
+        },
+        "blocs": {
+          "collapsed": "./icons/folder_icons/folder_type_bloc.svg",
+          "expanded": "./icons/folder_icons/folder_type_bloc_opened.svg"
+        },
+        "blueprint": {
+          "collapsed": "./icons/folder_icons/folder_type_blueprint.svg",
+          "expanded": "./icons/folder_icons/folder_type_blueprint_opened.svg"
+        },
+        "blueprints": {
+          "collapsed": "./icons/folder_icons/folder_type_blueprint.svg",
+          "expanded": "./icons/folder_icons/folder_type_blueprint_opened.svg"
+        },
+        "bot": {
+          "collapsed": "./icons/folder_icons/folder_type_bot.svg",
+          "expanded": "./icons/folder_icons/folder_type_bot_opened.svg"
+        },
+        "bots": {
+          "collapsed": "./icons/folder_icons/folder_type_bot.svg",
+          "expanded": "./icons/folder_icons/folder_type_bot_opened.svg"
+        },
+        "bower": {
+          "collapsed": "./icons/folder_icons/folder_type_bower.svg",
+          "expanded": "./icons/folder_icons/folder_type_bower_opened.svg"
+        },
+        "bower_components": {
+          "collapsed": "./icons/folder_icons/folder_type_bower.svg",
+          "expanded": "./icons/folder_icons/folder_type_bower_opened.svg"
+        },
+        "buildkite": {
+          "collapsed": "./icons/folder_icons/folder_type_buildkite.svg",
+          "expanded": "./icons/folder_icons/folder_type_buildkite_opened.svg"
+        },
+        ".buildkite": {
+          "collapsed": "./icons/folder_icons/folder_type_buildkite.svg",
+          "expanded": "./icons/folder_icons/folder_type_buildkite_opened.svg"
+        },
+        "cake": {
+          "collapsed": "./icons/folder_icons/folder_type_cake.svg",
+          "expanded": "./icons/folder_icons/folder_type_cake_opened.svg"
+        },
+        "certificate": {
+          "collapsed": "./icons/folder_icons/folder_type_certificate.svg",
+          "expanded": "./icons/folder_icons/folder_type_certificate_opened.svg"
+        },
+        "certificates": {
+          "collapsed": "./icons/folder_icons/folder_type_certificate.svg",
+          "expanded": "./icons/folder_icons/folder_type_certificate_opened.svg"
+        },
+        "certs": {
+          "collapsed": "./icons/folder_icons/folder_type_certificate.svg",
+          "expanded": "./icons/folder_icons/folder_type_certificate_opened.svg"
+        },
+        "cert": {
+          "collapsed": "./icons/folder_icons/folder_type_certificate.svg",
+          "expanded": "./icons/folder_icons/folder_type_certificate_opened.svg"
+        },
+        "changesets": {
+          "collapsed": "./icons/folder_icons/folder_type_changesets.svg",
+          "expanded": "./icons/folder_icons/folder_type_changesets_opened.svg"
+        },
+        ".changeset": {
+          "collapsed": "./icons/folder_icons/folder_type_changesets.svg",
+          "expanded": "./icons/folder_icons/folder_type_changesets_opened.svg"
+        },
+        ".zed": {
+          "collapsed": "./icons/folder_icons/folder_type_light_zed.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_zed_opened.svg"
+        },
+        ".claude": {
+          "collapsed": "./icons/folder_icons/folder_type_claude.svg",
+          "expanded": "./icons/folder_icons/folder_type_claude_opened.svg"
+        },
+        ".gemini": {
+          "collapsed": "./icons/folder_icons/folder_type_gemini.svg",
+          "expanded": "./icons/folder_icons/folder_type_gemini_opened.svg"
+        },
+        ".dart_tool": {
+          "collapsed": "./icons/folder_icons/folder_type_dart.svg",
+          "expanded": "./icons/folder_icons/folder_type_dart_opened.svg"
+        },
+        ".venv": {
+          "collapsed": "./icons/folder_icons/folder_type_python.svg",
+          "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
+        },
+        "chef": {
+          "collapsed": "./icons/folder_icons/folder_type_chef.svg",
+          "expanded": "./icons/folder_icons/folder_type_chef_opened.svg"
+        },
+        ".chef": {
+          "collapsed": "./icons/folder_icons/folder_type_chef.svg",
+          "expanded": "./icons/folder_icons/folder_type_chef_opened.svg"
+        },
+        "circleci": {
+          "collapsed": "./icons/folder_icons/folder_type_circleci.svg",
+          "expanded": "./icons/folder_icons/folder_type_circleci_opened.svg"
+        },
+        ".circleci": {
+          "collapsed": "./icons/folder_icons/folder_type_circleci.svg",
+          "expanded": "./icons/folder_icons/folder_type_circleci_opened.svg"
+        },
+        "cli": {
+          "collapsed": "./icons/folder_icons/folder_type_cli.svg",
+          "expanded": "./icons/folder_icons/folder_type_cli_opened.svg"
+        },
+        "clis": {
+          "collapsed": "./icons/folder_icons/folder_type_cli.svg",
+          "expanded": "./icons/folder_icons/folder_type_cli_opened.svg"
+        },
+        "client": {
+          "collapsed": "./icons/folder_icons/folder_type_client.svg",
+          "expanded": "./icons/folder_icons/folder_type_client_opened.svg"
+        },
+        "clients": {
+          "collapsed": "./icons/folder_icons/folder_type_client.svg",
+          "expanded": "./icons/folder_icons/folder_type_client_opened.svg"
+        },
+        "cmake": {
+          "collapsed": "./icons/folder_icons/folder_type_cmake.svg",
+          "expanded": "./icons/folder_icons/folder_type_cmake_opened.svg"
+        },
+        "CMake": {
+          "collapsed": "./icons/folder_icons/folder_type_cmake.svg",
+          "expanded": "./icons/folder_icons/folder_type_cmake_opened.svg"
+        },
+        "common": {
+          "collapsed": "./icons/folder_icons/folder_type_common.svg",
+          "expanded": "./icons/folder_icons/folder_type_common_opened.svg"
+        },
+        "component": {
+          "collapsed": "./icons/folder_icons/folder_type_component.svg",
+          "expanded": "./icons/folder_icons/folder_type_component_opened.svg"
+        },
+        "components": {
+          "collapsed": "./icons/folder_icons/folder_type_component.svg",
+          "expanded": "./icons/folder_icons/folder_type_component_opened.svg"
+        },
+        "composer": {
+          "collapsed": "./icons/folder_icons/folder_type_composer.svg",
+          "expanded": "./icons/folder_icons/folder_type_composer_opened.svg"
+        },
+        ".composer": {
+          "collapsed": "./icons/folder_icons/folder_type_composer.svg",
+          "expanded": "./icons/folder_icons/folder_type_composer_opened.svg"
+        },
+        "config": {
+          "collapsed": "./icons/folder_icons/folder_type_config.svg",
+          "expanded": "./icons/folder_icons/folder_type_config_opened.svg"
+        },
+        "configs": {
+          "collapsed": "./icons/folder_icons/folder_type_config.svg",
+          "expanded": "./icons/folder_icons/folder_type_config_opened.svg"
+        },
+        "configuration": {
+          "collapsed": "./icons/folder_icons/folder_type_config.svg",
+          "expanded": "./icons/folder_icons/folder_type_config_opened.svg"
+        },
+        "configurations": {
+          "collapsed": "./icons/folder_icons/folder_type_config.svg",
+          "expanded": "./icons/folder_icons/folder_type_config_opened.svg"
+        },
+        "controller": {
+          "collapsed": "./icons/folder_icons/folder_type_controller.svg",
+          "expanded": "./icons/folder_icons/folder_type_controller_opened.svg"
+        },
+        "controllers": {
+          "collapsed": "./icons/folder_icons/folder_type_controller.svg",
+          "expanded": "./icons/folder_icons/folder_type_controller_opened.svg"
+        },
+        "coverage": {
+          "collapsed": "./icons/folder_icons/folder_type_coverage.svg",
+          "expanded": "./icons/folder_icons/folder_type_coverage_opened.svg"
+        },
+        ".coverage": {
+          "collapsed": "./icons/folder_icons/folder_type_coverage.svg",
+          "expanded": "./icons/folder_icons/folder_type_coverage_opened.svg"
+        },
+        ".nyc_output": {
+          "collapsed": "./icons/folder_icons/folder_type_coverage.svg",
+          "expanded": "./icons/folder_icons/folder_type_coverage_opened.svg"
+        },
+        "css": {
+          "collapsed": "./icons/folder_icons/folder_type_css.svg",
+          "expanded": "./icons/folder_icons/folder_type_css_opened.svg"
+        },
+        "cubit": {
+          "collapsed": "./icons/folder_icons/folder_type_cubit.svg",
+          "expanded": "./icons/folder_icons/folder_type_cubit_opened.svg"
+        },
+        "cubits": {
+          "collapsed": "./icons/folder_icons/folder_type_cubit.svg",
+          "expanded": "./icons/folder_icons/folder_type_cubit_opened.svg"
+        },
+        "cypress": {
+          "collapsed": "./icons/folder_icons/folder_type_light_cypress.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_cypress_opened.svg"
+        },
+        "dapr": {
+          "collapsed": "./icons/folder_icons/folder_type_dapr.svg",
+          "expanded": "./icons/folder_icons/folder_type_dapr_opened.svg"
+        },
+        ".dapr": {
+          "collapsed": "./icons/folder_icons/folder_type_dapr.svg",
+          "expanded": "./icons/folder_icons/folder_type_dapr_opened.svg"
+        },
+        "datadog": {
+          "collapsed": "./icons/folder_icons/folder_type_datadog.svg",
+          "expanded": "./icons/folder_icons/folder_type_datadog_opened.svg"
+        },
+        ".datadog": {
+          "collapsed": "./icons/folder_icons/folder_type_datadog.svg",
+          "expanded": "./icons/folder_icons/folder_type_datadog_opened.svg"
+        },
+        "db": {
+          "collapsed": "./icons/folder_icons/folder_type_db.svg",
+          "expanded": "./icons/folder_icons/folder_type_db_opened.svg"
+        },
+        "database": {
+          "collapsed": "./icons/folder_icons/folder_type_db.svg",
+          "expanded": "./icons/folder_icons/folder_type_db_opened.svg"
+        },
+        "databases": {
+          "collapsed": "./icons/folder_icons/folder_type_db.svg",
+          "expanded": "./icons/folder_icons/folder_type_db_opened.svg"
+        },
+        "debian": {
+          "collapsed": "./icons/folder_icons/folder_type_debian.svg",
+          "expanded": "./icons/folder_icons/folder_type_debian_opened.svg"
+        },
+        "dependabot": {
+          "collapsed": "./icons/folder_icons/folder_type_dependabot.svg",
+          "expanded": "./icons/folder_icons/folder_type_dependabot_opened.svg"
+        },
+        ".dependabot": {
+          "collapsed": "./icons/folder_icons/folder_type_dependabot.svg",
+          "expanded": "./icons/folder_icons/folder_type_dependabot_opened.svg"
+        },
+        "devcontainer": {
+          "collapsed": "./icons/folder_icons/folder_type_devcontainer.svg",
+          "expanded": "./icons/folder_icons/folder_type_devcontainer_opened.svg"
+        },
+        ".devcontainer": {
+          "collapsed": "./icons/folder_icons/folder_type_devcontainer.svg",
+          "expanded": "./icons/folder_icons/folder_type_devcontainer_opened.svg"
+        },
+        "dist": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "build": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "out": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "output": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "target": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "release": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "docker": {
+          "collapsed": "./icons/folder_icons/folder_type_docker.svg",
+          "expanded": "./icons/folder_icons/folder_type_docker_opened.svg"
+        },
+        ".docker": {
+          "collapsed": "./icons/folder_icons/folder_type_docker.svg",
+          "expanded": "./icons/folder_icons/folder_type_docker_opened.svg"
+        },
+        "docs": {
+          "collapsed": "./icons/folder_icons/folder_type_docs.svg",
+          "expanded": "./icons/folder_icons/folder_type_docs_opened.svg"
+        },
+        "doc": {
+          "collapsed": "./icons/folder_icons/folder_type_docs.svg",
+          "expanded": "./icons/folder_icons/folder_type_docs_opened.svg"
+        },
+        "documentation": {
+          "collapsed": "./icons/folder_icons/folder_type_docs.svg",
+          "expanded": "./icons/folder_icons/folder_type_docs_opened.svg"
+        },
+        "e2e": {
+          "collapsed": "./icons/folder_icons/folder_type_e2e.svg",
+          "expanded": "./icons/folder_icons/folder_type_e2e_opened.svg"
+        },
+        "__e2e__": {
+          "collapsed": "./icons/folder_icons/folder_type_e2e.svg",
+          "expanded": "./icons/folder_icons/folder_type_e2e_opened.svg"
+        },
+        "end-to-end": {
+          "collapsed": "./icons/folder_icons/folder_type_e2e.svg",
+          "expanded": "./icons/folder_icons/folder_type_e2e_opened.svg"
+        },
+        "elasticbeanstalk": {
+          "collapsed": "./icons/folder_icons/folder_type_elasticbeanstalk.svg",
+          "expanded": "./icons/folder_icons/folder_type_elasticbeanstalk_opened.svg"
+        },
+        ".elasticbeanstalk": {
+          "collapsed": "./icons/folder_icons/folder_type_elasticbeanstalk.svg",
+          "expanded": "./icons/folder_icons/folder_type_elasticbeanstalk_opened.svg"
+        },
+        "electron": {
+          "collapsed": "./icons/folder_icons/folder_type_light_electron.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_electron_opened.svg"
+        },
+        "expo": {
+          "collapsed": "./icons/folder_icons/folder_type_light_expo.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_expo_opened.svg"
+        },
+        ".expo": {
+          "collapsed": "./icons/folder_icons/folder_type_light_expo.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_expo_opened.svg"
+        },
+        "favicon": {
+          "collapsed": "./icons/folder_icons/folder_type_favicon.svg",
+          "expanded": "./icons/folder_icons/folder_type_favicon_opened.svg"
+        },
+        "favicons": {
+          "collapsed": "./icons/folder_icons/folder_type_favicon.svg",
+          "expanded": "./icons/folder_icons/folder_type_favicon_opened.svg"
+        },
+        "flow": {
+          "collapsed": "./icons/folder_icons/folder_type_flow.svg",
+          "expanded": "./icons/folder_icons/folder_type_flow_opened.svg"
+        },
+        ".flow": {
+          "collapsed": "./icons/folder_icons/folder_type_flow.svg",
+          "expanded": "./icons/folder_icons/folder_type_flow_opened.svg"
+        },
+        "font": {
+          "collapsed": "./icons/folder_icons/folder_type_light_fonts.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_fonts_opened.svg"
+        },
+        "fonts": {
+          "collapsed": "./icons/folder_icons/folder_type_light_fonts.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_fonts_opened.svg"
+        },
+        "frontcommerce": {
+          "collapsed": "./icons/folder_icons/folder_type_frontcommerce.svg",
+          "expanded": "./icons/folder_icons/folder_type_frontcommerce_opened.svg"
+        },
+        "gcp": {
+          "collapsed": "./icons/folder_icons/folder_type_gcp.svg",
+          "expanded": "./icons/folder_icons/folder_type_gcp_opened.svg"
+        },
+        ".gcp": {
+          "collapsed": "./icons/folder_icons/folder_type_gcp.svg",
+          "expanded": "./icons/folder_icons/folder_type_gcp_opened.svg"
+        },
+        ".git": {
+          "collapsed": "./icons/folder_icons/folder_type_git.svg",
+          "expanded": "./icons/folder_icons/folder_type_git_opened.svg"
+        },
+        "github": {
+          "collapsed": "./icons/folder_icons/folder_type_github.svg",
+          "expanded": "./icons/folder_icons/folder_type_github_opened.svg"
+        },
+        ".github": {
+          "collapsed": "./icons/folder_icons/folder_type_github.svg",
+          "expanded": "./icons/folder_icons/folder_type_github_opened.svg"
+        },
+        "gitlab": {
+          "collapsed": "./icons/folder_icons/folder_type_gitlab.svg",
+          "expanded": "./icons/folder_icons/folder_type_gitlab_opened.svg"
+        },
+        ".gitlab": {
+          "collapsed": "./icons/folder_icons/folder_type_gitlab.svg",
+          "expanded": "./icons/folder_icons/folder_type_gitlab_opened.svg"
+        },
+        "gradle": {
+          "collapsed": "./icons/folder_icons/folder_type_light_gradle.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_gradle_opened.svg"
+        },
+        ".gradle": {
+          "collapsed": "./icons/folder_icons/folder_type_light_gradle.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_gradle_opened.svg"
+        },
+        "graphql": {
+          "collapsed": "./icons/folder_icons/folder_type_graphql.svg",
+          "expanded": "./icons/folder_icons/folder_type_graphql_opened.svg"
+        },
+        "gql": {
+          "collapsed": "./icons/folder_icons/folder_type_graphql.svg",
+          "expanded": "./icons/folder_icons/folder_type_graphql_opened.svg"
+        },
+        ".graphql": {
+          "collapsed": "./icons/folder_icons/folder_type_graphql.svg",
+          "expanded": "./icons/folder_icons/folder_type_graphql_opened.svg"
+        },
+        "grunt": {
+          "collapsed": "./icons/folder_icons/folder_type_grunt.svg",
+          "expanded": "./icons/folder_icons/folder_type_grunt_opened.svg"
+        },
+        "gulp": {
+          "collapsed": "./icons/folder_icons/folder_type_gulp.svg",
+          "expanded": "./icons/folder_icons/folder_type_gulp_opened.svg"
+        },
+        "haxelib": {
+          "collapsed": "./icons/folder_icons/folder_type_haxelib.svg",
+          "expanded": "./icons/folder_icons/folder_type_haxelib_opened.svg"
+        },
+        ".haxelib": {
+          "collapsed": "./icons/folder_icons/folder_type_haxelib.svg",
+          "expanded": "./icons/folder_icons/folder_type_haxelib_opened.svg"
+        },
+        "helper": {
+          "collapsed": "./icons/folder_icons/folder_type_helper.svg",
+          "expanded": "./icons/folder_icons/folder_type_helper_opened.svg"
+        },
+        "helpers": {
+          "collapsed": "./icons/folder_icons/folder_type_helper.svg",
+          "expanded": "./icons/folder_icons/folder_type_helper_opened.svg"
+        },
+        "hook": {
+          "collapsed": "./icons/folder_icons/folder_type_hook.svg",
+          "expanded": "./icons/folder_icons/folder_type_hook_opened.svg"
+        },
+        "hooks": {
+          "collapsed": "./icons/folder_icons/folder_type_hook.svg",
+          "expanded": "./icons/folder_icons/folder_type_hook_opened.svg"
+        },
+        "husky": {
+          "collapsed": "./icons/folder_icons/folder_type_husky.svg",
+          "expanded": "./icons/folder_icons/folder_type_husky_opened.svg"
+        },
+        ".husky": {
+          "collapsed": "./icons/folder_icons/folder_type_husky.svg",
+          "expanded": "./icons/folder_icons/folder_type_husky_opened.svg"
+        },
+        "idea": {
+          "collapsed": "./icons/folder_icons/folder_type_idea.svg",
+          "expanded": "./icons/folder_icons/folder_type_idea_opened.svg"
+        },
+        ".idea": {
+          "collapsed": "./icons/folder_icons/folder_type_idea.svg",
+          "expanded": "./icons/folder_icons/folder_type_idea_opened.svg"
+        },
+        "image": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "images": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "img": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "imgs": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "picture": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "pictures": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "pic": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "pics": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "include": {
+          "collapsed": "./icons/folder_icons/folder_type_include.svg",
+          "expanded": "./icons/folder_icons/folder_type_include_opened.svg"
+        },
+        "includes": {
+          "collapsed": "./icons/folder_icons/folder_type_include.svg",
+          "expanded": "./icons/folder_icons/folder_type_include_opened.svg"
+        },
+        "interface": {
+          "collapsed": "./icons/folder_icons/folder_type_interfaces.svg",
+          "expanded": "./icons/folder_icons/folder_type_interfaces_opened.svg"
+        },
+        "interfaces": {
+          "collapsed": "./icons/folder_icons/folder_type_interfaces.svg",
+          "expanded": "./icons/folder_icons/folder_type_interfaces_opened.svg"
+        },
+        "ios": {
+          "collapsed": "./icons/folder_icons/folder_type_ios.svg",
+          "expanded": "./icons/folder_icons/folder_type_ios_opened.svg"
+        },
+        "js": {
+          "collapsed": "./icons/folder_icons/folder_type_js.svg",
+          "expanded": "./icons/folder_icons/folder_type_js_opened.svg"
+        },
+        "javascript": {
+          "collapsed": "./icons/folder_icons/folder_type_js.svg",
+          "expanded": "./icons/folder_icons/folder_type_js_opened.svg"
+        },
+        "json": {
+          "collapsed": "./icons/folder_icons/folder_type_json.svg",
+          "expanded": "./icons/folder_icons/folder_type_json_opened.svg"
+        },
+        "kubernetes": {
+          "collapsed": "./icons/folder_icons/folder_type_kubernetes.svg",
+          "expanded": "./icons/folder_icons/folder_type_kubernetes_opened.svg"
+        },
+        "k8s": {
+          "collapsed": "./icons/folder_icons/folder_type_kubernetes.svg",
+          "expanded": "./icons/folder_icons/folder_type_kubernetes_opened.svg"
+        },
+        ".kubernetes": {
+          "collapsed": "./icons/folder_icons/folder_type_kubernetes.svg",
+          "expanded": "./icons/folder_icons/folder_type_kubernetes_opened.svg"
+        },
+        "less": {
+          "collapsed": "./icons/folder_icons/folder_type_less.svg",
+          "expanded": "./icons/folder_icons/folder_type_less_opened.svg"
+        },
+        "lib": {
+          "collapsed": "./icons/folder_icons/folder_type_library.svg",
+          "expanded": "./icons/folder_icons/folder_type_library_opened.svg"
+        },
+        "libs": {
+          "collapsed": "./icons/folder_icons/folder_type_library.svg",
+          "expanded": "./icons/folder_icons/folder_type_library_opened.svg"
+        },
+        "library": {
+          "collapsed": "./icons/folder_icons/folder_type_library.svg",
+          "expanded": "./icons/folder_icons/folder_type_library_opened.svg"
+        },
+        "libraries": {
+          "collapsed": "./icons/folder_icons/folder_type_library.svg",
+          "expanded": "./icons/folder_icons/folder_type_library_opened.svg"
+        },
+        "linux": {
+          "collapsed": "./icons/folder_icons/folder_type_linux.svg",
+          "expanded": "./icons/folder_icons/folder_type_linux_opened.svg"
+        },
+        "locale": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "locales": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "lang": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "langs": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "i18n": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "translation": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "translations": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "log": {
+          "collapsed": "./icons/folder_icons/folder_type_log.svg",
+          "expanded": "./icons/folder_icons/folder_type_log_opened.svg"
+        },
+        "logs": {
+          "collapsed": "./icons/folder_icons/folder_type_log.svg",
+          "expanded": "./icons/folder_icons/folder_type_log_opened.svg"
+        },
+        "macos": {
+          "collapsed": "./icons/folder_icons/folder_type_macos.svg",
+          "expanded": "./icons/folder_icons/folder_type_macos_opened.svg"
+        },
+        "mac": {
+          "collapsed": "./icons/folder_icons/folder_type_macos.svg",
+          "expanded": "./icons/folder_icons/folder_type_macos_opened.svg"
+        },
+        "darwin": {
+          "collapsed": "./icons/folder_icons/folder_type_macos.svg",
+          "expanded": "./icons/folder_icons/folder_type_macos_opened.svg"
+        },
+        "mariadb": {
+          "collapsed": "./icons/folder_icons/folder_type_mariadb.svg",
+          "expanded": "./icons/folder_icons/folder_type_mariadb_opened.svg"
+        },
+        "maven": {
+          "collapsed": "./icons/folder_icons/folder_type_maven.svg",
+          "expanded": "./icons/folder_icons/folder_type_maven_opened.svg"
+        },
+        ".maven": {
+          "collapsed": "./icons/folder_icons/folder_type_maven.svg",
+          "expanded": "./icons/folder_icons/folder_type_maven_opened.svg"
+        },
+        "mediawiki": {
+          "collapsed": "./icons/folder_icons/folder_type_mediawiki.svg",
+          "expanded": "./icons/folder_icons/folder_type_mediawiki_opened.svg"
+        },
+        "memcached": {
+          "collapsed": "./icons/folder_icons/folder_type_memcached.svg",
+          "expanded": "./icons/folder_icons/folder_type_memcached_opened.svg"
+        },
+        "meteor": {
+          "collapsed": "./icons/folder_icons/folder_type_light_meteor.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_meteor_opened.svg"
+        },
+        ".meteor": {
+          "collapsed": "./icons/folder_icons/folder_type_light_meteor.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_meteor_opened.svg"
+        },
+        "middleware": {
+          "collapsed": "./icons/folder_icons/folder_type_middleware.svg",
+          "expanded": "./icons/folder_icons/folder_type_middleware_opened.svg"
+        },
+        "middlewares": {
+          "collapsed": "./icons/folder_icons/folder_type_middleware.svg",
+          "expanded": "./icons/folder_icons/folder_type_middleware_opened.svg"
+        },
+        "minecraft": {
+          "collapsed": "./icons/folder_icons/folder_type_minecraft.svg",
+          "expanded": "./icons/folder_icons/folder_type_minecraft_opened.svg"
+        },
+        "minikube": {
+          "collapsed": "./icons/folder_icons/folder_type_minikube.svg",
+          "expanded": "./icons/folder_icons/folder_type_minikube_opened.svg"
+        },
+        ".minikube": {
+          "collapsed": "./icons/folder_icons/folder_type_minikube.svg",
+          "expanded": "./icons/folder_icons/folder_type_minikube_opened.svg"
+        },
+        "mjml": {
+          "collapsed": "./icons/folder_icons/folder_type_mjml.svg",
+          "expanded": "./icons/folder_icons/folder_type_mjml_opened.svg"
+        },
+        "mock": {
+          "collapsed": "./icons/folder_icons/folder_type_mock.svg",
+          "expanded": "./icons/folder_icons/folder_type_mock_opened.svg"
+        },
+        "mocks": {
+          "collapsed": "./icons/folder_icons/folder_type_mock.svg",
+          "expanded": "./icons/folder_icons/folder_type_mock_opened.svg"
+        },
+        "__mocks__": {
+          "collapsed": "./icons/folder_icons/folder_type_mock.svg",
+          "expanded": "./icons/folder_icons/folder_type_mock_opened.svg"
+        },
+        "model": {
+          "collapsed": "./icons/folder_icons/folder_type_model.svg",
+          "expanded": "./icons/folder_icons/folder_type_model_opened.svg"
+        },
+        "models": {
+          "collapsed": "./icons/folder_icons/folder_type_model.svg",
+          "expanded": "./icons/folder_icons/folder_type_model_opened.svg"
+        },
+        "module": {
+          "collapsed": "./icons/folder_icons/folder_type_module.svg",
+          "expanded": "./icons/folder_icons/folder_type_module_opened.svg"
+        },
+        "modules": {
+          "collapsed": "./icons/folder_icons/folder_type_module.svg",
+          "expanded": "./icons/folder_icons/folder_type_module_opened.svg"
+        },
+        "mojo": {
+          "collapsed": "./icons/folder_icons/folder_type_mojo.svg",
+          "expanded": "./icons/folder_icons/folder_type_mojo_opened.svg"
+        },
+        "mongodb": {
+          "collapsed": "./icons/folder_icons/folder_type_mongodb.svg",
+          "expanded": "./icons/folder_icons/folder_type_mongodb_opened.svg"
+        },
+        "mongo": {
+          "collapsed": "./icons/folder_icons/folder_type_mongodb.svg",
+          "expanded": "./icons/folder_icons/folder_type_mongodb_opened.svg"
+        },
+        "mypy": {
+          "collapsed": "./icons/folder_icons/folder_type_light_mypy.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_mypy_opened.svg"
+        },
+        ".mypy_cache": {
+          "collapsed": "./icons/folder_icons/folder_type_light_mypy.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_mypy_opened.svg"
+        },
+        "mysql": {
+          "collapsed": "./icons/folder_icons/folder_type_light_mysql.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_mysql_opened.svg"
+        },
+        "netlify": {
+          "collapsed": "./icons/folder_icons/folder_type_netlify.svg",
+          "expanded": "./icons/folder_icons/folder_type_netlify_opened.svg"
+        },
+        ".netlify": {
+          "collapsed": "./icons/folder_icons/folder_type_netlify.svg",
+          "expanded": "./icons/folder_icons/folder_type_netlify_opened.svg"
+        },
+        "next": {
+          "collapsed": "./icons/folder_icons/folder_type_next.svg",
+          "expanded": "./icons/folder_icons/folder_type_next_opened.svg"
+        },
+        ".next": {
+          "collapsed": "./icons/folder_icons/folder_type_next.svg",
+          "expanded": "./icons/folder_icons/folder_type_next_opened.svg"
+        },
+        "nginx": {
+          "collapsed": "./icons/folder_icons/folder_type_nginx.svg",
+          "expanded": "./icons/folder_icons/folder_type_nginx_opened.svg"
+        },
+        "nix": {
+          "collapsed": "./icons/folder_icons/folder_type_nix.svg",
+          "expanded": "./icons/folder_icons/folder_type_nix_opened.svg"
+        },
+        ".nix": {
+          "collapsed": "./icons/folder_icons/folder_type_nix.svg",
+          "expanded": "./icons/folder_icons/folder_type_nix_opened.svg"
+        },
+        "node_modules": {
+          "collapsed": "./icons/folder_icons/folder_type_light_node.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_node_opened.svg"
+        },
+        "node": {
+          "collapsed": "./icons/folder_icons/folder_type_light_node.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_node_opened.svg"
+        },
+        "notebooks": {
+          "collapsed": "./icons/folder_icons/folder_type_notebooks.svg",
+          "expanded": "./icons/folder_icons/folder_type_notebooks_opened.svg"
+        },
+        "notebook": {
+          "collapsed": "./icons/folder_icons/folder_type_notebooks.svg",
+          "expanded": "./icons/folder_icons/folder_type_notebooks_opened.svg"
+        },
+        ".ipynb_checkpoints": {
+          "collapsed": "./icons/folder_icons/folder_type_notebooks.svg",
+          "expanded": "./icons/folder_icons/folder_type_notebooks_opened.svg"
+        },
+        "notification": {
+          "collapsed": "./icons/folder_icons/folder_type_notification.svg",
+          "expanded": "./icons/folder_icons/folder_type_notification_opened.svg"
+        },
+        "notifications": {
+          "collapsed": "./icons/folder_icons/folder_type_notification.svg",
+          "expanded": "./icons/folder_icons/folder_type_notification_opened.svg"
+        },
+        "nuget": {
+          "collapsed": "./icons/folder_icons/folder_type_nuget.svg",
+          "expanded": "./icons/folder_icons/folder_type_nuget_opened.svg"
+        },
+        ".nuget": {
+          "collapsed": "./icons/folder_icons/folder_type_nuget.svg",
+          "expanded": "./icons/folder_icons/folder_type_nuget_opened.svg"
+        },
+        "nuxt": {
+          "collapsed": "./icons/folder_icons/folder_type_nuxt.svg",
+          "expanded": "./icons/folder_icons/folder_type_nuxt_opened.svg"
+        },
+        ".nuxt": {
+          "collapsed": "./icons/folder_icons/folder_type_nuxt.svg",
+          "expanded": "./icons/folder_icons/folder_type_nuxt_opened.svg"
+        },
+        "package": {
+          "collapsed": "./icons/folder_icons/folder_type_package.svg",
+          "expanded": "./icons/folder_icons/folder_type_package_opened.svg"
+        },
+        "packages": {
+          "collapsed": "./icons/folder_icons/folder_type_package.svg",
+          "expanded": "./icons/folder_icons/folder_type_package_opened.svg"
+        },
+        "pkg": {
+          "collapsed": "./icons/folder_icons/folder_type_package.svg",
+          "expanded": "./icons/folder_icons/folder_type_package_opened.svg"
+        },
+        "paket": {
+          "collapsed": "./icons/folder_icons/folder_type_paket.svg",
+          "expanded": "./icons/folder_icons/folder_type_paket_opened.svg"
+        },
+        ".paket": {
+          "collapsed": "./icons/folder_icons/folder_type_paket.svg",
+          "expanded": "./icons/folder_icons/folder_type_paket_opened.svg"
+        },
+        "php": {
+          "collapsed": "./icons/folder_icons/folder_type_php.svg",
+          "expanded": "./icons/folder_icons/folder_type_php_opened.svg"
+        },
+        "platformio": {
+          "collapsed": "./icons/folder_icons/folder_type_platformio.svg",
+          "expanded": "./icons/folder_icons/folder_type_platformio_opened.svg"
+        },
+        ".platformio": {
+          "collapsed": "./icons/folder_icons/folder_type_platformio.svg",
+          "expanded": "./icons/folder_icons/folder_type_platformio_opened.svg"
+        },
+        "plugin": {
+          "collapsed": "./icons/folder_icons/folder_type_plugin.svg",
+          "expanded": "./icons/folder_icons/folder_type_plugin_opened.svg"
+        },
+        "plugins": {
+          "collapsed": "./icons/folder_icons/folder_type_plugin.svg",
+          "expanded": "./icons/folder_icons/folder_type_plugin_opened.svg"
+        },
+        "prisma": {
+          "collapsed": "./icons/folder_icons/folder_type_prisma.svg",
+          "expanded": "./icons/folder_icons/folder_type_prisma_opened.svg"
+        },
+        "private": {
+          "collapsed": "./icons/folder_icons/folder_type_private.svg",
+          "expanded": "./icons/folder_icons/folder_type_private_opened.svg"
+        },
+        "public": {
+          "collapsed": "./icons/folder_icons/folder_type_public.svg",
+          "expanded": "./icons/folder_icons/folder_type_public_opened.svg"
+        },
+        "pytest": {
+          "collapsed": "./icons/folder_icons/folder_type_pytest.svg",
+          "expanded": "./icons/folder_icons/folder_type_pytest_opened.svg"
+        },
+        ".pytest_cache": {
+          "collapsed": "./icons/folder_icons/folder_type_pytest.svg",
+          "expanded": "./icons/folder_icons/folder_type_pytest_opened.svg"
+        },
+        "python": {
+          "collapsed": "./icons/folder_icons/folder_type_python.svg",
+          "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
+        },
+        "__pycache__": {
+          "collapsed": "./icons/folder_icons/folder_type_python.svg",
+          "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
+        },
+        "ravendb": {
+          "collapsed": "./icons/folder_icons/folder_type_ravendb.svg",
+          "expanded": "./icons/folder_icons/folder_type_ravendb_opened.svg"
+        },
+        "redis": {
+          "collapsed": "./icons/folder_icons/folder_type_redis.svg",
+          "expanded": "./icons/folder_icons/folder_type_redis_opened.svg"
+        },
+        "redux": {
+          "collapsed": "./icons/folder_icons/folder_type_light_redux.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_redux_opened.svg"
+        },
+        "route": {
+          "collapsed": "./icons/folder_icons/folder_type_route.svg",
+          "expanded": "./icons/folder_icons/folder_type_route_opened.svg"
+        },
+        "routes": {
+          "collapsed": "./icons/folder_icons/folder_type_route.svg",
+          "expanded": "./icons/folder_icons/folder_type_route_opened.svg"
+        },
+        "sass": {
+          "collapsed": "./icons/folder_icons/folder_type_light_sass.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_sass_opened.svg"
+        },
+        "scss": {
+          "collapsed": "./icons/folder_icons/folder_type_light_sass.svg",
+          "expanded": "./icons/folder_icons/folder_type_light_sass_opened.svg"
+        },
+        "script": {
+          "collapsed": "./icons/folder_icons/folder_type_script.svg",
+          "expanded": "./icons/folder_icons/folder_type_script_opened.svg"
+        },
+        "scripts": {
+          "collapsed": "./icons/folder_icons/folder_type_script.svg",
+          "expanded": "./icons/folder_icons/folder_type_script_opened.svg"
+        },
+        "seedkit": {
+          "collapsed": "./icons/folder_icons/folder_type_seedkit.svg",
+          "expanded": "./icons/folder_icons/folder_type_seedkit_opened.svg"
+        },
+        "server": {
+          "collapsed": "./icons/folder_icons/folder_type_server.svg",
+          "expanded": "./icons/folder_icons/folder_type_server_opened.svg"
+        },
+        "servers": {
+          "collapsed": "./icons/folder_icons/folder_type_server.svg",
+          "expanded": "./icons/folder_icons/folder_type_server_opened.svg"
+        },
+        "service": {
+          "collapsed": "./icons/folder_icons/folder_type_services.svg",
+          "expanded": "./icons/folder_icons/folder_type_services_opened.svg"
+        },
+        "services": {
+          "collapsed": "./icons/folder_icons/folder_type_services.svg",
+          "expanded": "./icons/folder_icons/folder_type_services_opened.svg"
+        },
+        "shared": {
+          "collapsed": "./icons/folder_icons/folder_type_shared.svg",
+          "expanded": "./icons/folder_icons/folder_type_shared_opened.svg"
+        },
+        "snaplet": {
+          "collapsed": "./icons/folder_icons/folder_type_snaplet.svg",
+          "expanded": "./icons/folder_icons/folder_type_snaplet_opened.svg"
+        },
+        ".snaplet": {
+          "collapsed": "./icons/folder_icons/folder_type_snaplet.svg",
+          "expanded": "./icons/folder_icons/folder_type_snaplet_opened.svg"
+        },
+        "spin": {
+          "collapsed": "./icons/folder_icons/folder_type_spin.svg",
+          "expanded": "./icons/folder_icons/folder_type_spin_opened.svg"
+        },
+        "src": {
+          "collapsed": "./icons/folder_icons/folder_type_src.svg",
+          "expanded": "./icons/folder_icons/folder_type_src_opened.svg"
+        },
+        "source": {
+          "collapsed": "./icons/folder_icons/folder_type_src.svg",
+          "expanded": "./icons/folder_icons/folder_type_src_opened.svg"
+        },
+        "sources": {
+          "collapsed": "./icons/folder_icons/folder_type_src.svg",
+          "expanded": "./icons/folder_icons/folder_type_src_opened.svg"
+        },
+        "sso": {
+          "collapsed": "./icons/folder_icons/folder_type_sso.svg",
+          "expanded": "./icons/folder_icons/folder_type_sso_opened.svg"
+        },
+        "story": {
+          "collapsed": "./icons/folder_icons/folder_type_story.svg",
+          "expanded": "./icons/folder_icons/folder_type_story_opened.svg"
+        },
+        "stories": {
+          "collapsed": "./icons/folder_icons/folder_type_story.svg",
+          "expanded": "./icons/folder_icons/folder_type_story_opened.svg"
+        },
+        "__stories__": {
+          "collapsed": "./icons/folder_icons/folder_type_story.svg",
+          "expanded": "./icons/folder_icons/folder_type_story_opened.svg"
+        },
+        "style": {
+          "collapsed": "./icons/folder_icons/folder_type_style.svg",
+          "expanded": "./icons/folder_icons/folder_type_style_opened.svg"
+        },
+        "styles": {
+          "collapsed": "./icons/folder_icons/folder_type_style.svg",
+          "expanded": "./icons/folder_icons/folder_type_style_opened.svg"
+        },
+        "supabase": {
+          "collapsed": "./icons/folder_icons/folder_type_supabase.svg",
+          "expanded": "./icons/folder_icons/folder_type_supabase_opened.svg"
+        },
+        ".supabase": {
+          "collapsed": "./icons/folder_icons/folder_type_supabase.svg",
+          "expanded": "./icons/folder_icons/folder_type_supabase_opened.svg"
+        },
+        "svelte": {
+          "collapsed": "./icons/folder_icons/folder_type_svelte.svg",
+          "expanded": "./icons/folder_icons/folder_type_svelte_opened.svg"
+        },
+        ".svelte-kit": {
+          "collapsed": "./icons/folder_icons/folder_type_svelte.svg",
+          "expanded": "./icons/folder_icons/folder_type_svelte_opened.svg"
+        },
+        "tauri": {
+          "collapsed": "./icons/folder_icons/folder_type_tauri.svg",
+          "expanded": "./icons/folder_icons/folder_type_tauri_opened.svg"
+        },
+        "src-tauri": {
+          "collapsed": "./icons/folder_icons/folder_type_tauri.svg",
+          "expanded": "./icons/folder_icons/folder_type_tauri_opened.svg"
+        },
+        "temp": {
+          "collapsed": "./icons/folder_icons/folder_type_temp.svg",
+          "expanded": "./icons/folder_icons/folder_type_temp_opened.svg"
+        },
+        "tmp": {
+          "collapsed": "./icons/folder_icons/folder_type_temp.svg",
+          "expanded": "./icons/folder_icons/folder_type_temp_opened.svg"
+        },
+        "template": {
+          "collapsed": "./icons/folder_icons/folder_type_template.svg",
+          "expanded": "./icons/folder_icons/folder_type_template_opened.svg"
+        },
+        "templates": {
+          "collapsed": "./icons/folder_icons/folder_type_template.svg",
+          "expanded": "./icons/folder_icons/folder_type_template_opened.svg"
+        },
+        "test": {
+          "collapsed": "./icons/folder_icons/folder_type_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_test_opened.svg"
+        },
+        "tests": {
+          "collapsed": "./icons/folder_icons/folder_type_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_test_opened.svg"
+        },
+        "__tests__": {
+          "collapsed": "./icons/folder_icons/folder_type_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_test_opened.svg"
+        },
+        "spec": {
+          "collapsed": "./icons/folder_icons/folder_type_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_test_opened.svg"
+        },
+        "specs": {
+          "collapsed": "./icons/folder_icons/folder_type_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_test_opened.svg"
+        },
+        "theme": {
+          "collapsed": "./icons/folder_icons/folder_type_theme.svg",
+          "expanded": "./icons/folder_icons/folder_type_theme_opened.svg"
+        },
+        "themes": {
+          "collapsed": "./icons/folder_icons/folder_type_theme.svg",
+          "expanded": "./icons/folder_icons/folder_type_theme_opened.svg"
+        },
+        "tool": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "tools": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "util": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "utils": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "utility": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "utilities": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "travis": {
+          "collapsed": "./icons/folder_icons/folder_type_travis.svg",
+          "expanded": "./icons/folder_icons/folder_type_travis_opened.svg"
+        },
+        ".travis": {
+          "collapsed": "./icons/folder_icons/folder_type_travis.svg",
+          "expanded": "./icons/folder_icons/folder_type_travis_opened.svg"
+        },
+        "trunk": {
+          "collapsed": "./icons/folder_icons/folder_type_trunk.svg",
+          "expanded": "./icons/folder_icons/folder_type_trunk_opened.svg"
+        },
+        ".trunk": {
+          "collapsed": "./icons/folder_icons/folder_type_trunk.svg",
+          "expanded": "./icons/folder_icons/folder_type_trunk_opened.svg"
+        },
+        "turbo": {
+          "collapsed": "./icons/folder_icons/folder_type_turbo.svg",
+          "expanded": "./icons/folder_icons/folder_type_turbo_opened.svg"
+        },
+        ".turbo": {
+          "collapsed": "./icons/folder_icons/folder_type_turbo.svg",
+          "expanded": "./icons/folder_icons/folder_type_turbo_opened.svg"
+        },
+        "ts": {
+          "collapsed": "./icons/folder_icons/folder_type_typescript.svg",
+          "expanded": "./icons/folder_icons/folder_type_typescript_opened.svg"
+        },
+        "typescript": {
+          "collapsed": "./icons/folder_icons/folder_type_typescript.svg",
+          "expanded": "./icons/folder_icons/folder_type_typescript_opened.svg"
+        },
+        "typings": {
+          "collapsed": "./icons/folder_icons/folder_type_typings.svg",
+          "expanded": "./icons/folder_icons/folder_type_typings_opened.svg"
+        },
+        "vagrant": {
+          "collapsed": "./icons/folder_icons/folder_type_vagrant.svg",
+          "expanded": "./icons/folder_icons/folder_type_vagrant_opened.svg"
+        },
+        ".vagrant": {
+          "collapsed": "./icons/folder_icons/folder_type_vagrant.svg",
+          "expanded": "./icons/folder_icons/folder_type_vagrant_opened.svg"
+        },
+        "vercel": {
+          "collapsed": "./icons/folder_icons/folder_type_vercel.svg",
+          "expanded": "./icons/folder_icons/folder_type_vercel_opened.svg"
+        },
+        ".vercel": {
+          "collapsed": "./icons/folder_icons/folder_type_vercel.svg",
+          "expanded": "./icons/folder_icons/folder_type_vercel_opened.svg"
+        },
+        "video": {
+          "collapsed": "./icons/folder_icons/folder_type_video.svg",
+          "expanded": "./icons/folder_icons/folder_type_video_opened.svg"
+        },
+        "videos": {
+          "collapsed": "./icons/folder_icons/folder_type_video.svg",
+          "expanded": "./icons/folder_icons/folder_type_video_opened.svg"
+        },
+        "movie": {
+          "collapsed": "./icons/folder_icons/folder_type_video.svg",
+          "expanded": "./icons/folder_icons/folder_type_video_opened.svg"
+        },
+        "movies": {
+          "collapsed": "./icons/folder_icons/folder_type_video.svg",
+          "expanded": "./icons/folder_icons/folder_type_video_opened.svg"
+        },
+        "view": {
+          "collapsed": "./icons/folder_icons/folder_type_view.svg",
+          "expanded": "./icons/folder_icons/folder_type_view_opened.svg"
+        },
+        "views": {
+          "collapsed": "./icons/folder_icons/folder_type_view.svg",
+          "expanded": "./icons/folder_icons/folder_type_view_opened.svg"
+        },
+        "vs": {
+          "collapsed": "./icons/folder_icons/folder_type_vs.svg",
+          "expanded": "./icons/folder_icons/folder_type_vs_opened.svg"
+        },
+        "vscode": {
+          "collapsed": "./icons/folder_icons/folder_type_vscode.svg",
+          "expanded": "./icons/folder_icons/folder_type_vscode_opened.svg"
+        },
+        ".vscode": {
+          "collapsed": "./icons/folder_icons/folder_type_vscode.svg",
+          "expanded": "./icons/folder_icons/folder_type_vscode_opened.svg"
+        },
+        "vscode_test": {
+          "collapsed": "./icons/folder_icons/folder_type_vscode_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_vscode_test_opened.svg"
+        },
+        ".vscode-test": {
+          "collapsed": "./icons/folder_icons/folder_type_vscode_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_vscode_test_opened.svg"
+        },
+        "webpack": {
+          "collapsed": "./icons/folder_icons/folder_type_webpack.svg",
+          "expanded": "./icons/folder_icons/folder_type_webpack_opened.svg"
+        },
+        ".webpack": {
+          "collapsed": "./icons/folder_icons/folder_type_webpack.svg",
+          "expanded": "./icons/folder_icons/folder_type_webpack_opened.svg"
+        },
+        "windows": {
+          "collapsed": "./icons/folder_icons/folder_type_windows.svg",
+          "expanded": "./icons/folder_icons/folder_type_windows_opened.svg"
+        },
+        "win": {
+          "collapsed": "./icons/folder_icons/folder_type_windows.svg",
+          "expanded": "./icons/folder_icons/folder_type_windows_opened.svg"
+        },
+        "wit": {
+          "collapsed": "./icons/folder_icons/folder_type_wit.svg",
+          "expanded": "./icons/folder_icons/folder_type_wit_opened.svg"
+        },
+        "www": {
+          "collapsed": "./icons/folder_icons/folder_type_www.svg",
+          "expanded": "./icons/folder_icons/folder_type_www_opened.svg"
+        },
+        "web": {
+          "collapsed": "./icons/folder_icons/folder_type_www.svg",
+          "expanded": "./icons/folder_icons/folder_type_www_opened.svg"
+        },
+        "yarn": {
+          "collapsed": "./icons/folder_icons/folder_type_yarn.svg",
+          "expanded": "./icons/folder_icons/folder_type_yarn_opened.svg"
+        },
+        ".yarn": {
+          "collapsed": "./icons/folder_icons/folder_type_yarn.svg",
+          "expanded": "./icons/folder_icons/folder_type_yarn_opened.svg"
+        }
+      },
       "file_stems": {
         "astroconfig": "astroconfig",
         "aws": "aws",
@@ -349,6 +1635,12 @@
         "policyfile.rb": "chef",
         "class": "class",
         "claude.md": "claude",
+        "CLAUDE.md": "claude",
+        "agents.md": "agents",
+        "AGENTS.md": "agents",
+        "gemini.md": "gemini",
+        "GEMINI.md": "gemini",
+        "uv.lock": "uv",
         "circle.yml": "circleci",
         "cljc": "clojure",
         "cjm": "clojure",
@@ -971,6 +2263,7 @@
         ".nsrirc": "nsri",
         ".integrity.json": "nsri-integrity",
         "nuspec": "nuget",
+        "spec": "config",
         "nupkg": "nuget",
         "psmdcp": "nuget",
         "snupkg": "nuget",
@@ -1486,7 +2779,7 @@
         ".yaspellerrc": "yandex",
         ".yaspeller.json": "yandex",
         "yang": "yang",
-        "lock": "yarn",
+        "lock": "package",
         "yarn.lock": "yarn",
         ".yarnrc": "yarn",
         ".yarn-state.yml": "yarn",
@@ -1984,6 +3277,15 @@
         },
         "claude": {
           "path": "./icons/file_icons/file_type_claude.svg"
+        },
+        "agents": {
+          "path": "./icons/file_icons/file_type_light_agents.svg"
+        },
+        "gemini": {
+          "path": "./icons/file_icons/file_type_gemini.svg"
+        },
+        "uv": {
+          "path": "./icons/file_icons/file_type_uv.svg"
         },
         "circleci": {
           "path": "./icons/file_icons/file_type_light_circleci.svg"
@@ -4286,6 +5588,1292 @@
         "collapsed": "./icons/folder_icons/default_folder.svg",
         "expanded": "./icons/folder_icons/default_folder_opened.svg"
       },
+      "named_directory_icons": {
+        "android": {
+          "collapsed": "./icons/folder_icons/folder_type_android.svg",
+          "expanded": "./icons/folder_icons/folder_type_android_opened.svg"
+        },
+        "angular": {
+          "collapsed": "./icons/folder_icons/folder_type_angular.svg",
+          "expanded": "./icons/folder_icons/folder_type_angular_opened.svg"
+        },
+        ".angular": {
+          "collapsed": "./icons/folder_icons/folder_type_angular.svg",
+          "expanded": "./icons/folder_icons/folder_type_angular_opened.svg"
+        },
+        "api": {
+          "collapsed": "./icons/folder_icons/folder_type_api.svg",
+          "expanded": "./icons/folder_icons/folder_type_api_opened.svg"
+        },
+        "apis": {
+          "collapsed": "./icons/folder_icons/folder_type_api.svg",
+          "expanded": "./icons/folder_icons/folder_type_api_opened.svg"
+        },
+        "app": {
+          "collapsed": "./icons/folder_icons/folder_type_app.svg",
+          "expanded": "./icons/folder_icons/folder_type_app_opened.svg"
+        },
+        "apps": {
+          "collapsed": "./icons/folder_icons/folder_type_app.svg",
+          "expanded": "./icons/folder_icons/folder_type_app_opened.svg"
+        },
+        "arangodb": {
+          "collapsed": "./icons/folder_icons/folder_type_arangodb.svg",
+          "expanded": "./icons/folder_icons/folder_type_arangodb_opened.svg"
+        },
+        "asset": {
+          "collapsed": "./icons/folder_icons/folder_type_asset.svg",
+          "expanded": "./icons/folder_icons/folder_type_asset_opened.svg"
+        },
+        "assets": {
+          "collapsed": "./icons/folder_icons/folder_type_asset.svg",
+          "expanded": "./icons/folder_icons/folder_type_asset_opened.svg"
+        },
+        "static": {
+          "collapsed": "./icons/folder_icons/folder_type_asset.svg",
+          "expanded": "./icons/folder_icons/folder_type_asset_opened.svg"
+        },
+        "astro": {
+          "collapsed": "./icons/folder_icons/folder_type_astro.svg",
+          "expanded": "./icons/folder_icons/folder_type_astro_opened.svg"
+        },
+        ".astro": {
+          "collapsed": "./icons/folder_icons/folder_type_astro.svg",
+          "expanded": "./icons/folder_icons/folder_type_astro_opened.svg"
+        },
+        "audio": {
+          "collapsed": "./icons/folder_icons/folder_type_audio.svg",
+          "expanded": "./icons/folder_icons/folder_type_audio_opened.svg"
+        },
+        "audios": {
+          "collapsed": "./icons/folder_icons/folder_type_audio.svg",
+          "expanded": "./icons/folder_icons/folder_type_audio_opened.svg"
+        },
+        "sound": {
+          "collapsed": "./icons/folder_icons/folder_type_audio.svg",
+          "expanded": "./icons/folder_icons/folder_type_audio_opened.svg"
+        },
+        "sounds": {
+          "collapsed": "./icons/folder_icons/folder_type_audio.svg",
+          "expanded": "./icons/folder_icons/folder_type_audio_opened.svg"
+        },
+        "aurelia": {
+          "collapsed": "./icons/folder_icons/folder_type_aurelia.svg",
+          "expanded": "./icons/folder_icons/folder_type_aurelia_opened.svg"
+        },
+        "aws": {
+          "collapsed": "./icons/folder_icons/folder_type_aws.svg",
+          "expanded": "./icons/folder_icons/folder_type_aws_opened.svg"
+        },
+        ".aws": {
+          "collapsed": "./icons/folder_icons/folder_type_aws.svg",
+          "expanded": "./icons/folder_icons/folder_type_aws_opened.svg"
+        },
+        "azure": {
+          "collapsed": "./icons/folder_icons/folder_type_azure.svg",
+          "expanded": "./icons/folder_icons/folder_type_azure_opened.svg"
+        },
+        ".azure": {
+          "collapsed": "./icons/folder_icons/folder_type_azure.svg",
+          "expanded": "./icons/folder_icons/folder_type_azure_opened.svg"
+        },
+        "azurepipelines": {
+          "collapsed": "./icons/folder_icons/folder_type_azurepipelines.svg",
+          "expanded": "./icons/folder_icons/folder_type_azurepipelines_opened.svg"
+        },
+        "azure-pipelines": {
+          "collapsed": "./icons/folder_icons/folder_type_azurepipelines.svg",
+          "expanded": "./icons/folder_icons/folder_type_azurepipelines_opened.svg"
+        },
+        ".azure-pipelines": {
+          "collapsed": "./icons/folder_icons/folder_type_azurepipelines.svg",
+          "expanded": "./icons/folder_icons/folder_type_azurepipelines_opened.svg"
+        },
+        "bin": {
+          "collapsed": "./icons/folder_icons/folder_type_binary.svg",
+          "expanded": "./icons/folder_icons/folder_type_binary_opened.svg"
+        },
+        "binary": {
+          "collapsed": "./icons/folder_icons/folder_type_binary.svg",
+          "expanded": "./icons/folder_icons/folder_type_binary_opened.svg"
+        },
+        "binaries": {
+          "collapsed": "./icons/folder_icons/folder_type_binary.svg",
+          "expanded": "./icons/folder_icons/folder_type_binary_opened.svg"
+        },
+        "bloc": {
+          "collapsed": "./icons/folder_icons/folder_type_bloc.svg",
+          "expanded": "./icons/folder_icons/folder_type_bloc_opened.svg"
+        },
+        "blocs": {
+          "collapsed": "./icons/folder_icons/folder_type_bloc.svg",
+          "expanded": "./icons/folder_icons/folder_type_bloc_opened.svg"
+        },
+        "blueprint": {
+          "collapsed": "./icons/folder_icons/folder_type_blueprint.svg",
+          "expanded": "./icons/folder_icons/folder_type_blueprint_opened.svg"
+        },
+        "blueprints": {
+          "collapsed": "./icons/folder_icons/folder_type_blueprint.svg",
+          "expanded": "./icons/folder_icons/folder_type_blueprint_opened.svg"
+        },
+        "bot": {
+          "collapsed": "./icons/folder_icons/folder_type_bot.svg",
+          "expanded": "./icons/folder_icons/folder_type_bot_opened.svg"
+        },
+        "bots": {
+          "collapsed": "./icons/folder_icons/folder_type_bot.svg",
+          "expanded": "./icons/folder_icons/folder_type_bot_opened.svg"
+        },
+        "bower": {
+          "collapsed": "./icons/folder_icons/folder_type_bower.svg",
+          "expanded": "./icons/folder_icons/folder_type_bower_opened.svg"
+        },
+        "bower_components": {
+          "collapsed": "./icons/folder_icons/folder_type_bower.svg",
+          "expanded": "./icons/folder_icons/folder_type_bower_opened.svg"
+        },
+        "buildkite": {
+          "collapsed": "./icons/folder_icons/folder_type_buildkite.svg",
+          "expanded": "./icons/folder_icons/folder_type_buildkite_opened.svg"
+        },
+        ".buildkite": {
+          "collapsed": "./icons/folder_icons/folder_type_buildkite.svg",
+          "expanded": "./icons/folder_icons/folder_type_buildkite_opened.svg"
+        },
+        "cake": {
+          "collapsed": "./icons/folder_icons/folder_type_cake.svg",
+          "expanded": "./icons/folder_icons/folder_type_cake_opened.svg"
+        },
+        "certificate": {
+          "collapsed": "./icons/folder_icons/folder_type_certificate.svg",
+          "expanded": "./icons/folder_icons/folder_type_certificate_opened.svg"
+        },
+        "certificates": {
+          "collapsed": "./icons/folder_icons/folder_type_certificate.svg",
+          "expanded": "./icons/folder_icons/folder_type_certificate_opened.svg"
+        },
+        "certs": {
+          "collapsed": "./icons/folder_icons/folder_type_certificate.svg",
+          "expanded": "./icons/folder_icons/folder_type_certificate_opened.svg"
+        },
+        "cert": {
+          "collapsed": "./icons/folder_icons/folder_type_certificate.svg",
+          "expanded": "./icons/folder_icons/folder_type_certificate_opened.svg"
+        },
+        "changesets": {
+          "collapsed": "./icons/folder_icons/folder_type_changesets.svg",
+          "expanded": "./icons/folder_icons/folder_type_changesets_opened.svg"
+        },
+        ".changeset": {
+          "collapsed": "./icons/folder_icons/folder_type_changesets.svg",
+          "expanded": "./icons/folder_icons/folder_type_changesets_opened.svg"
+        },
+        ".zed": {
+          "collapsed": "./icons/folder_icons/folder_type_zed.svg",
+          "expanded": "./icons/folder_icons/folder_type_zed_opened.svg"
+        },
+        ".claude": {
+          "collapsed": "./icons/folder_icons/folder_type_claude.svg",
+          "expanded": "./icons/folder_icons/folder_type_claude_opened.svg"
+        },
+        ".gemini": {
+          "collapsed": "./icons/folder_icons/folder_type_gemini.svg",
+          "expanded": "./icons/folder_icons/folder_type_gemini_opened.svg"
+        },
+        ".dart_tool": {
+          "collapsed": "./icons/folder_icons/folder_type_dart.svg",
+          "expanded": "./icons/folder_icons/folder_type_dart_opened.svg"
+        },
+        ".venv": {
+          "collapsed": "./icons/folder_icons/folder_type_python.svg",
+          "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
+        },
+        "chef": {
+          "collapsed": "./icons/folder_icons/folder_type_chef.svg",
+          "expanded": "./icons/folder_icons/folder_type_chef_opened.svg"
+        },
+        ".chef": {
+          "collapsed": "./icons/folder_icons/folder_type_chef.svg",
+          "expanded": "./icons/folder_icons/folder_type_chef_opened.svg"
+        },
+        "circleci": {
+          "collapsed": "./icons/folder_icons/folder_type_circleci.svg",
+          "expanded": "./icons/folder_icons/folder_type_circleci_opened.svg"
+        },
+        ".circleci": {
+          "collapsed": "./icons/folder_icons/folder_type_circleci.svg",
+          "expanded": "./icons/folder_icons/folder_type_circleci_opened.svg"
+        },
+        "cli": {
+          "collapsed": "./icons/folder_icons/folder_type_cli.svg",
+          "expanded": "./icons/folder_icons/folder_type_cli_opened.svg"
+        },
+        "clis": {
+          "collapsed": "./icons/folder_icons/folder_type_cli.svg",
+          "expanded": "./icons/folder_icons/folder_type_cli_opened.svg"
+        },
+        "client": {
+          "collapsed": "./icons/folder_icons/folder_type_client.svg",
+          "expanded": "./icons/folder_icons/folder_type_client_opened.svg"
+        },
+        "clients": {
+          "collapsed": "./icons/folder_icons/folder_type_client.svg",
+          "expanded": "./icons/folder_icons/folder_type_client_opened.svg"
+        },
+        "cmake": {
+          "collapsed": "./icons/folder_icons/folder_type_cmake.svg",
+          "expanded": "./icons/folder_icons/folder_type_cmake_opened.svg"
+        },
+        "CMake": {
+          "collapsed": "./icons/folder_icons/folder_type_cmake.svg",
+          "expanded": "./icons/folder_icons/folder_type_cmake_opened.svg"
+        },
+        "common": {
+          "collapsed": "./icons/folder_icons/folder_type_common.svg",
+          "expanded": "./icons/folder_icons/folder_type_common_opened.svg"
+        },
+        "component": {
+          "collapsed": "./icons/folder_icons/folder_type_component.svg",
+          "expanded": "./icons/folder_icons/folder_type_component_opened.svg"
+        },
+        "components": {
+          "collapsed": "./icons/folder_icons/folder_type_component.svg",
+          "expanded": "./icons/folder_icons/folder_type_component_opened.svg"
+        },
+        "composer": {
+          "collapsed": "./icons/folder_icons/folder_type_composer.svg",
+          "expanded": "./icons/folder_icons/folder_type_composer_opened.svg"
+        },
+        ".composer": {
+          "collapsed": "./icons/folder_icons/folder_type_composer.svg",
+          "expanded": "./icons/folder_icons/folder_type_composer_opened.svg"
+        },
+        "config": {
+          "collapsed": "./icons/folder_icons/folder_type_config.svg",
+          "expanded": "./icons/folder_icons/folder_type_config_opened.svg"
+        },
+        "configs": {
+          "collapsed": "./icons/folder_icons/folder_type_config.svg",
+          "expanded": "./icons/folder_icons/folder_type_config_opened.svg"
+        },
+        "configuration": {
+          "collapsed": "./icons/folder_icons/folder_type_config.svg",
+          "expanded": "./icons/folder_icons/folder_type_config_opened.svg"
+        },
+        "configurations": {
+          "collapsed": "./icons/folder_icons/folder_type_config.svg",
+          "expanded": "./icons/folder_icons/folder_type_config_opened.svg"
+        },
+        "controller": {
+          "collapsed": "./icons/folder_icons/folder_type_controller.svg",
+          "expanded": "./icons/folder_icons/folder_type_controller_opened.svg"
+        },
+        "controllers": {
+          "collapsed": "./icons/folder_icons/folder_type_controller.svg",
+          "expanded": "./icons/folder_icons/folder_type_controller_opened.svg"
+        },
+        "coverage": {
+          "collapsed": "./icons/folder_icons/folder_type_coverage.svg",
+          "expanded": "./icons/folder_icons/folder_type_coverage_opened.svg"
+        },
+        ".coverage": {
+          "collapsed": "./icons/folder_icons/folder_type_coverage.svg",
+          "expanded": "./icons/folder_icons/folder_type_coverage_opened.svg"
+        },
+        ".nyc_output": {
+          "collapsed": "./icons/folder_icons/folder_type_coverage.svg",
+          "expanded": "./icons/folder_icons/folder_type_coverage_opened.svg"
+        },
+        "css": {
+          "collapsed": "./icons/folder_icons/folder_type_css.svg",
+          "expanded": "./icons/folder_icons/folder_type_css_opened.svg"
+        },
+        "cubit": {
+          "collapsed": "./icons/folder_icons/folder_type_cubit.svg",
+          "expanded": "./icons/folder_icons/folder_type_cubit_opened.svg"
+        },
+        "cubits": {
+          "collapsed": "./icons/folder_icons/folder_type_cubit.svg",
+          "expanded": "./icons/folder_icons/folder_type_cubit_opened.svg"
+        },
+        "cypress": {
+          "collapsed": "./icons/folder_icons/folder_type_cypress.svg",
+          "expanded": "./icons/folder_icons/folder_type_cypress_opened.svg"
+        },
+        "dapr": {
+          "collapsed": "./icons/folder_icons/folder_type_dapr.svg",
+          "expanded": "./icons/folder_icons/folder_type_dapr_opened.svg"
+        },
+        ".dapr": {
+          "collapsed": "./icons/folder_icons/folder_type_dapr.svg",
+          "expanded": "./icons/folder_icons/folder_type_dapr_opened.svg"
+        },
+        "datadog": {
+          "collapsed": "./icons/folder_icons/folder_type_datadog.svg",
+          "expanded": "./icons/folder_icons/folder_type_datadog_opened.svg"
+        },
+        ".datadog": {
+          "collapsed": "./icons/folder_icons/folder_type_datadog.svg",
+          "expanded": "./icons/folder_icons/folder_type_datadog_opened.svg"
+        },
+        "db": {
+          "collapsed": "./icons/folder_icons/folder_type_db.svg",
+          "expanded": "./icons/folder_icons/folder_type_db_opened.svg"
+        },
+        "database": {
+          "collapsed": "./icons/folder_icons/folder_type_db.svg",
+          "expanded": "./icons/folder_icons/folder_type_db_opened.svg"
+        },
+        "databases": {
+          "collapsed": "./icons/folder_icons/folder_type_db.svg",
+          "expanded": "./icons/folder_icons/folder_type_db_opened.svg"
+        },
+        "debian": {
+          "collapsed": "./icons/folder_icons/folder_type_debian.svg",
+          "expanded": "./icons/folder_icons/folder_type_debian_opened.svg"
+        },
+        "dependabot": {
+          "collapsed": "./icons/folder_icons/folder_type_dependabot.svg",
+          "expanded": "./icons/folder_icons/folder_type_dependabot_opened.svg"
+        },
+        ".dependabot": {
+          "collapsed": "./icons/folder_icons/folder_type_dependabot.svg",
+          "expanded": "./icons/folder_icons/folder_type_dependabot_opened.svg"
+        },
+        "devcontainer": {
+          "collapsed": "./icons/folder_icons/folder_type_devcontainer.svg",
+          "expanded": "./icons/folder_icons/folder_type_devcontainer_opened.svg"
+        },
+        ".devcontainer": {
+          "collapsed": "./icons/folder_icons/folder_type_devcontainer.svg",
+          "expanded": "./icons/folder_icons/folder_type_devcontainer_opened.svg"
+        },
+        "dist": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "build": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "out": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "output": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "target": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "release": {
+          "collapsed": "./icons/folder_icons/folder_type_dist.svg",
+          "expanded": "./icons/folder_icons/folder_type_dist_opened.svg"
+        },
+        "docker": {
+          "collapsed": "./icons/folder_icons/folder_type_docker.svg",
+          "expanded": "./icons/folder_icons/folder_type_docker_opened.svg"
+        },
+        ".docker": {
+          "collapsed": "./icons/folder_icons/folder_type_docker.svg",
+          "expanded": "./icons/folder_icons/folder_type_docker_opened.svg"
+        },
+        "docs": {
+          "collapsed": "./icons/folder_icons/folder_type_docs.svg",
+          "expanded": "./icons/folder_icons/folder_type_docs_opened.svg"
+        },
+        "doc": {
+          "collapsed": "./icons/folder_icons/folder_type_docs.svg",
+          "expanded": "./icons/folder_icons/folder_type_docs_opened.svg"
+        },
+        "documentation": {
+          "collapsed": "./icons/folder_icons/folder_type_docs.svg",
+          "expanded": "./icons/folder_icons/folder_type_docs_opened.svg"
+        },
+        "e2e": {
+          "collapsed": "./icons/folder_icons/folder_type_e2e.svg",
+          "expanded": "./icons/folder_icons/folder_type_e2e_opened.svg"
+        },
+        "__e2e__": {
+          "collapsed": "./icons/folder_icons/folder_type_e2e.svg",
+          "expanded": "./icons/folder_icons/folder_type_e2e_opened.svg"
+        },
+        "end-to-end": {
+          "collapsed": "./icons/folder_icons/folder_type_e2e.svg",
+          "expanded": "./icons/folder_icons/folder_type_e2e_opened.svg"
+        },
+        "elasticbeanstalk": {
+          "collapsed": "./icons/folder_icons/folder_type_elasticbeanstalk.svg",
+          "expanded": "./icons/folder_icons/folder_type_elasticbeanstalk_opened.svg"
+        },
+        ".elasticbeanstalk": {
+          "collapsed": "./icons/folder_icons/folder_type_elasticbeanstalk.svg",
+          "expanded": "./icons/folder_icons/folder_type_elasticbeanstalk_opened.svg"
+        },
+        "electron": {
+          "collapsed": "./icons/folder_icons/folder_type_electron.svg",
+          "expanded": "./icons/folder_icons/folder_type_electron_opened.svg"
+        },
+        "expo": {
+          "collapsed": "./icons/folder_icons/folder_type_expo.svg",
+          "expanded": "./icons/folder_icons/folder_type_expo_opened.svg"
+        },
+        ".expo": {
+          "collapsed": "./icons/folder_icons/folder_type_expo.svg",
+          "expanded": "./icons/folder_icons/folder_type_expo_opened.svg"
+        },
+        "favicon": {
+          "collapsed": "./icons/folder_icons/folder_type_favicon.svg",
+          "expanded": "./icons/folder_icons/folder_type_favicon_opened.svg"
+        },
+        "favicons": {
+          "collapsed": "./icons/folder_icons/folder_type_favicon.svg",
+          "expanded": "./icons/folder_icons/folder_type_favicon_opened.svg"
+        },
+        "flow": {
+          "collapsed": "./icons/folder_icons/folder_type_flow.svg",
+          "expanded": "./icons/folder_icons/folder_type_flow_opened.svg"
+        },
+        ".flow": {
+          "collapsed": "./icons/folder_icons/folder_type_flow.svg",
+          "expanded": "./icons/folder_icons/folder_type_flow_opened.svg"
+        },
+        "font": {
+          "collapsed": "./icons/folder_icons/folder_type_fonts.svg",
+          "expanded": "./icons/folder_icons/folder_type_fonts_opened.svg"
+        },
+        "fonts": {
+          "collapsed": "./icons/folder_icons/folder_type_fonts.svg",
+          "expanded": "./icons/folder_icons/folder_type_fonts_opened.svg"
+        },
+        "frontcommerce": {
+          "collapsed": "./icons/folder_icons/folder_type_frontcommerce.svg",
+          "expanded": "./icons/folder_icons/folder_type_frontcommerce_opened.svg"
+        },
+        "gcp": {
+          "collapsed": "./icons/folder_icons/folder_type_gcp.svg",
+          "expanded": "./icons/folder_icons/folder_type_gcp_opened.svg"
+        },
+        ".gcp": {
+          "collapsed": "./icons/folder_icons/folder_type_gcp.svg",
+          "expanded": "./icons/folder_icons/folder_type_gcp_opened.svg"
+        },
+        ".git": {
+          "collapsed": "./icons/folder_icons/folder_type_git.svg",
+          "expanded": "./icons/folder_icons/folder_type_git_opened.svg"
+        },
+        "github": {
+          "collapsed": "./icons/folder_icons/folder_type_github.svg",
+          "expanded": "./icons/folder_icons/folder_type_github_opened.svg"
+        },
+        ".github": {
+          "collapsed": "./icons/folder_icons/folder_type_github.svg",
+          "expanded": "./icons/folder_icons/folder_type_github_opened.svg"
+        },
+        "gitlab": {
+          "collapsed": "./icons/folder_icons/folder_type_gitlab.svg",
+          "expanded": "./icons/folder_icons/folder_type_gitlab_opened.svg"
+        },
+        ".gitlab": {
+          "collapsed": "./icons/folder_icons/folder_type_gitlab.svg",
+          "expanded": "./icons/folder_icons/folder_type_gitlab_opened.svg"
+        },
+        "gradle": {
+          "collapsed": "./icons/folder_icons/folder_type_gradle.svg",
+          "expanded": "./icons/folder_icons/folder_type_gradle_opened.svg"
+        },
+        ".gradle": {
+          "collapsed": "./icons/folder_icons/folder_type_gradle.svg",
+          "expanded": "./icons/folder_icons/folder_type_gradle_opened.svg"
+        },
+        "graphql": {
+          "collapsed": "./icons/folder_icons/folder_type_graphql.svg",
+          "expanded": "./icons/folder_icons/folder_type_graphql_opened.svg"
+        },
+        "gql": {
+          "collapsed": "./icons/folder_icons/folder_type_graphql.svg",
+          "expanded": "./icons/folder_icons/folder_type_graphql_opened.svg"
+        },
+        ".graphql": {
+          "collapsed": "./icons/folder_icons/folder_type_graphql.svg",
+          "expanded": "./icons/folder_icons/folder_type_graphql_opened.svg"
+        },
+        "grunt": {
+          "collapsed": "./icons/folder_icons/folder_type_grunt.svg",
+          "expanded": "./icons/folder_icons/folder_type_grunt_opened.svg"
+        },
+        "gulp": {
+          "collapsed": "./icons/folder_icons/folder_type_gulp.svg",
+          "expanded": "./icons/folder_icons/folder_type_gulp_opened.svg"
+        },
+        "haxelib": {
+          "collapsed": "./icons/folder_icons/folder_type_haxelib.svg",
+          "expanded": "./icons/folder_icons/folder_type_haxelib_opened.svg"
+        },
+        ".haxelib": {
+          "collapsed": "./icons/folder_icons/folder_type_haxelib.svg",
+          "expanded": "./icons/folder_icons/folder_type_haxelib_opened.svg"
+        },
+        "helper": {
+          "collapsed": "./icons/folder_icons/folder_type_helper.svg",
+          "expanded": "./icons/folder_icons/folder_type_helper_opened.svg"
+        },
+        "helpers": {
+          "collapsed": "./icons/folder_icons/folder_type_helper.svg",
+          "expanded": "./icons/folder_icons/folder_type_helper_opened.svg"
+        },
+        "hook": {
+          "collapsed": "./icons/folder_icons/folder_type_hook.svg",
+          "expanded": "./icons/folder_icons/folder_type_hook_opened.svg"
+        },
+        "hooks": {
+          "collapsed": "./icons/folder_icons/folder_type_hook.svg",
+          "expanded": "./icons/folder_icons/folder_type_hook_opened.svg"
+        },
+        "husky": {
+          "collapsed": "./icons/folder_icons/folder_type_husky.svg",
+          "expanded": "./icons/folder_icons/folder_type_husky_opened.svg"
+        },
+        ".husky": {
+          "collapsed": "./icons/folder_icons/folder_type_husky.svg",
+          "expanded": "./icons/folder_icons/folder_type_husky_opened.svg"
+        },
+        "idea": {
+          "collapsed": "./icons/folder_icons/folder_type_idea.svg",
+          "expanded": "./icons/folder_icons/folder_type_idea_opened.svg"
+        },
+        ".idea": {
+          "collapsed": "./icons/folder_icons/folder_type_idea.svg",
+          "expanded": "./icons/folder_icons/folder_type_idea_opened.svg"
+        },
+        "image": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "images": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "img": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "imgs": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "picture": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "pictures": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "pic": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "pics": {
+          "collapsed": "./icons/folder_icons/folder_type_images.svg",
+          "expanded": "./icons/folder_icons/folder_type_images_opened.svg"
+        },
+        "include": {
+          "collapsed": "./icons/folder_icons/folder_type_include.svg",
+          "expanded": "./icons/folder_icons/folder_type_include_opened.svg"
+        },
+        "includes": {
+          "collapsed": "./icons/folder_icons/folder_type_include.svg",
+          "expanded": "./icons/folder_icons/folder_type_include_opened.svg"
+        },
+        "interface": {
+          "collapsed": "./icons/folder_icons/folder_type_interfaces.svg",
+          "expanded": "./icons/folder_icons/folder_type_interfaces_opened.svg"
+        },
+        "interfaces": {
+          "collapsed": "./icons/folder_icons/folder_type_interfaces.svg",
+          "expanded": "./icons/folder_icons/folder_type_interfaces_opened.svg"
+        },
+        "ios": {
+          "collapsed": "./icons/folder_icons/folder_type_ios.svg",
+          "expanded": "./icons/folder_icons/folder_type_ios_opened.svg"
+        },
+        "js": {
+          "collapsed": "./icons/folder_icons/folder_type_js.svg",
+          "expanded": "./icons/folder_icons/folder_type_js_opened.svg"
+        },
+        "javascript": {
+          "collapsed": "./icons/folder_icons/folder_type_js.svg",
+          "expanded": "./icons/folder_icons/folder_type_js_opened.svg"
+        },
+        "json": {
+          "collapsed": "./icons/folder_icons/folder_type_json.svg",
+          "expanded": "./icons/folder_icons/folder_type_json_opened.svg"
+        },
+        "kubernetes": {
+          "collapsed": "./icons/folder_icons/folder_type_kubernetes.svg",
+          "expanded": "./icons/folder_icons/folder_type_kubernetes_opened.svg"
+        },
+        "k8s": {
+          "collapsed": "./icons/folder_icons/folder_type_kubernetes.svg",
+          "expanded": "./icons/folder_icons/folder_type_kubernetes_opened.svg"
+        },
+        ".kubernetes": {
+          "collapsed": "./icons/folder_icons/folder_type_kubernetes.svg",
+          "expanded": "./icons/folder_icons/folder_type_kubernetes_opened.svg"
+        },
+        "less": {
+          "collapsed": "./icons/folder_icons/folder_type_less.svg",
+          "expanded": "./icons/folder_icons/folder_type_less_opened.svg"
+        },
+        "lib": {
+          "collapsed": "./icons/folder_icons/folder_type_library.svg",
+          "expanded": "./icons/folder_icons/folder_type_library_opened.svg"
+        },
+        "libs": {
+          "collapsed": "./icons/folder_icons/folder_type_library.svg",
+          "expanded": "./icons/folder_icons/folder_type_library_opened.svg"
+        },
+        "library": {
+          "collapsed": "./icons/folder_icons/folder_type_library.svg",
+          "expanded": "./icons/folder_icons/folder_type_library_opened.svg"
+        },
+        "libraries": {
+          "collapsed": "./icons/folder_icons/folder_type_library.svg",
+          "expanded": "./icons/folder_icons/folder_type_library_opened.svg"
+        },
+        "linux": {
+          "collapsed": "./icons/folder_icons/folder_type_linux.svg",
+          "expanded": "./icons/folder_icons/folder_type_linux_opened.svg"
+        },
+        "locale": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "locales": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "lang": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "langs": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "i18n": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "translation": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "translations": {
+          "collapsed": "./icons/folder_icons/folder_type_locale.svg",
+          "expanded": "./icons/folder_icons/folder_type_locale_opened.svg"
+        },
+        "log": {
+          "collapsed": "./icons/folder_icons/folder_type_log.svg",
+          "expanded": "./icons/folder_icons/folder_type_log_opened.svg"
+        },
+        "logs": {
+          "collapsed": "./icons/folder_icons/folder_type_log.svg",
+          "expanded": "./icons/folder_icons/folder_type_log_opened.svg"
+        },
+        "macos": {
+          "collapsed": "./icons/folder_icons/folder_type_macos.svg",
+          "expanded": "./icons/folder_icons/folder_type_macos_opened.svg"
+        },
+        "mac": {
+          "collapsed": "./icons/folder_icons/folder_type_macos.svg",
+          "expanded": "./icons/folder_icons/folder_type_macos_opened.svg"
+        },
+        "darwin": {
+          "collapsed": "./icons/folder_icons/folder_type_macos.svg",
+          "expanded": "./icons/folder_icons/folder_type_macos_opened.svg"
+        },
+        "mariadb": {
+          "collapsed": "./icons/folder_icons/folder_type_mariadb.svg",
+          "expanded": "./icons/folder_icons/folder_type_mariadb_opened.svg"
+        },
+        "maven": {
+          "collapsed": "./icons/folder_icons/folder_type_maven.svg",
+          "expanded": "./icons/folder_icons/folder_type_maven_opened.svg"
+        },
+        ".maven": {
+          "collapsed": "./icons/folder_icons/folder_type_maven.svg",
+          "expanded": "./icons/folder_icons/folder_type_maven_opened.svg"
+        },
+        "mediawiki": {
+          "collapsed": "./icons/folder_icons/folder_type_mediawiki.svg",
+          "expanded": "./icons/folder_icons/folder_type_mediawiki_opened.svg"
+        },
+        "memcached": {
+          "collapsed": "./icons/folder_icons/folder_type_memcached.svg",
+          "expanded": "./icons/folder_icons/folder_type_memcached_opened.svg"
+        },
+        "meteor": {
+          "collapsed": "./icons/folder_icons/folder_type_meteor.svg",
+          "expanded": "./icons/folder_icons/folder_type_meteor_opened.svg"
+        },
+        ".meteor": {
+          "collapsed": "./icons/folder_icons/folder_type_meteor.svg",
+          "expanded": "./icons/folder_icons/folder_type_meteor_opened.svg"
+        },
+        "middleware": {
+          "collapsed": "./icons/folder_icons/folder_type_middleware.svg",
+          "expanded": "./icons/folder_icons/folder_type_middleware_opened.svg"
+        },
+        "middlewares": {
+          "collapsed": "./icons/folder_icons/folder_type_middleware.svg",
+          "expanded": "./icons/folder_icons/folder_type_middleware_opened.svg"
+        },
+        "minecraft": {
+          "collapsed": "./icons/folder_icons/folder_type_minecraft.svg",
+          "expanded": "./icons/folder_icons/folder_type_minecraft_opened.svg"
+        },
+        "minikube": {
+          "collapsed": "./icons/folder_icons/folder_type_minikube.svg",
+          "expanded": "./icons/folder_icons/folder_type_minikube_opened.svg"
+        },
+        ".minikube": {
+          "collapsed": "./icons/folder_icons/folder_type_minikube.svg",
+          "expanded": "./icons/folder_icons/folder_type_minikube_opened.svg"
+        },
+        "mjml": {
+          "collapsed": "./icons/folder_icons/folder_type_mjml.svg",
+          "expanded": "./icons/folder_icons/folder_type_mjml_opened.svg"
+        },
+        "mock": {
+          "collapsed": "./icons/folder_icons/folder_type_mock.svg",
+          "expanded": "./icons/folder_icons/folder_type_mock_opened.svg"
+        },
+        "mocks": {
+          "collapsed": "./icons/folder_icons/folder_type_mock.svg",
+          "expanded": "./icons/folder_icons/folder_type_mock_opened.svg"
+        },
+        "__mocks__": {
+          "collapsed": "./icons/folder_icons/folder_type_mock.svg",
+          "expanded": "./icons/folder_icons/folder_type_mock_opened.svg"
+        },
+        "model": {
+          "collapsed": "./icons/folder_icons/folder_type_model.svg",
+          "expanded": "./icons/folder_icons/folder_type_model_opened.svg"
+        },
+        "models": {
+          "collapsed": "./icons/folder_icons/folder_type_model.svg",
+          "expanded": "./icons/folder_icons/folder_type_model_opened.svg"
+        },
+        "module": {
+          "collapsed": "./icons/folder_icons/folder_type_module.svg",
+          "expanded": "./icons/folder_icons/folder_type_module_opened.svg"
+        },
+        "modules": {
+          "collapsed": "./icons/folder_icons/folder_type_module.svg",
+          "expanded": "./icons/folder_icons/folder_type_module_opened.svg"
+        },
+        "mojo": {
+          "collapsed": "./icons/folder_icons/folder_type_mojo.svg",
+          "expanded": "./icons/folder_icons/folder_type_mojo_opened.svg"
+        },
+        "mongodb": {
+          "collapsed": "./icons/folder_icons/folder_type_mongodb.svg",
+          "expanded": "./icons/folder_icons/folder_type_mongodb_opened.svg"
+        },
+        "mongo": {
+          "collapsed": "./icons/folder_icons/folder_type_mongodb.svg",
+          "expanded": "./icons/folder_icons/folder_type_mongodb_opened.svg"
+        },
+        "mypy": {
+          "collapsed": "./icons/folder_icons/folder_type_mypy.svg",
+          "expanded": "./icons/folder_icons/folder_type_mypy_opened.svg"
+        },
+        ".mypy_cache": {
+          "collapsed": "./icons/folder_icons/folder_type_mypy.svg",
+          "expanded": "./icons/folder_icons/folder_type_mypy_opened.svg"
+        },
+        "mysql": {
+          "collapsed": "./icons/folder_icons/folder_type_mysql.svg",
+          "expanded": "./icons/folder_icons/folder_type_mysql_opened.svg"
+        },
+        "netlify": {
+          "collapsed": "./icons/folder_icons/folder_type_netlify.svg",
+          "expanded": "./icons/folder_icons/folder_type_netlify_opened.svg"
+        },
+        ".netlify": {
+          "collapsed": "./icons/folder_icons/folder_type_netlify.svg",
+          "expanded": "./icons/folder_icons/folder_type_netlify_opened.svg"
+        },
+        "next": {
+          "collapsed": "./icons/folder_icons/folder_type_next.svg",
+          "expanded": "./icons/folder_icons/folder_type_next_opened.svg"
+        },
+        ".next": {
+          "collapsed": "./icons/folder_icons/folder_type_next.svg",
+          "expanded": "./icons/folder_icons/folder_type_next_opened.svg"
+        },
+        "nginx": {
+          "collapsed": "./icons/folder_icons/folder_type_nginx.svg",
+          "expanded": "./icons/folder_icons/folder_type_nginx_opened.svg"
+        },
+        "nix": {
+          "collapsed": "./icons/folder_icons/folder_type_nix.svg",
+          "expanded": "./icons/folder_icons/folder_type_nix_opened.svg"
+        },
+        ".nix": {
+          "collapsed": "./icons/folder_icons/folder_type_nix.svg",
+          "expanded": "./icons/folder_icons/folder_type_nix_opened.svg"
+        },
+        "node_modules": {
+          "collapsed": "./icons/folder_icons/folder_type_node.svg",
+          "expanded": "./icons/folder_icons/folder_type_node_opened.svg"
+        },
+        "node": {
+          "collapsed": "./icons/folder_icons/folder_type_node.svg",
+          "expanded": "./icons/folder_icons/folder_type_node_opened.svg"
+        },
+        "notebooks": {
+          "collapsed": "./icons/folder_icons/folder_type_notebooks.svg",
+          "expanded": "./icons/folder_icons/folder_type_notebooks_opened.svg"
+        },
+        "notebook": {
+          "collapsed": "./icons/folder_icons/folder_type_notebooks.svg",
+          "expanded": "./icons/folder_icons/folder_type_notebooks_opened.svg"
+        },
+        ".ipynb_checkpoints": {
+          "collapsed": "./icons/folder_icons/folder_type_notebooks.svg",
+          "expanded": "./icons/folder_icons/folder_type_notebooks_opened.svg"
+        },
+        "notification": {
+          "collapsed": "./icons/folder_icons/folder_type_notification.svg",
+          "expanded": "./icons/folder_icons/folder_type_notification_opened.svg"
+        },
+        "notifications": {
+          "collapsed": "./icons/folder_icons/folder_type_notification.svg",
+          "expanded": "./icons/folder_icons/folder_type_notification_opened.svg"
+        },
+        "nuget": {
+          "collapsed": "./icons/folder_icons/folder_type_nuget.svg",
+          "expanded": "./icons/folder_icons/folder_type_nuget_opened.svg"
+        },
+        ".nuget": {
+          "collapsed": "./icons/folder_icons/folder_type_nuget.svg",
+          "expanded": "./icons/folder_icons/folder_type_nuget_opened.svg"
+        },
+        "nuxt": {
+          "collapsed": "./icons/folder_icons/folder_type_nuxt.svg",
+          "expanded": "./icons/folder_icons/folder_type_nuxt_opened.svg"
+        },
+        ".nuxt": {
+          "collapsed": "./icons/folder_icons/folder_type_nuxt.svg",
+          "expanded": "./icons/folder_icons/folder_type_nuxt_opened.svg"
+        },
+        "package": {
+          "collapsed": "./icons/folder_icons/folder_type_package.svg",
+          "expanded": "./icons/folder_icons/folder_type_package_opened.svg"
+        },
+        "packages": {
+          "collapsed": "./icons/folder_icons/folder_type_package.svg",
+          "expanded": "./icons/folder_icons/folder_type_package_opened.svg"
+        },
+        "pkg": {
+          "collapsed": "./icons/folder_icons/folder_type_package.svg",
+          "expanded": "./icons/folder_icons/folder_type_package_opened.svg"
+        },
+        "paket": {
+          "collapsed": "./icons/folder_icons/folder_type_paket.svg",
+          "expanded": "./icons/folder_icons/folder_type_paket_opened.svg"
+        },
+        ".paket": {
+          "collapsed": "./icons/folder_icons/folder_type_paket.svg",
+          "expanded": "./icons/folder_icons/folder_type_paket_opened.svg"
+        },
+        "php": {
+          "collapsed": "./icons/folder_icons/folder_type_php.svg",
+          "expanded": "./icons/folder_icons/folder_type_php_opened.svg"
+        },
+        "platformio": {
+          "collapsed": "./icons/folder_icons/folder_type_platformio.svg",
+          "expanded": "./icons/folder_icons/folder_type_platformio_opened.svg"
+        },
+        ".platformio": {
+          "collapsed": "./icons/folder_icons/folder_type_platformio.svg",
+          "expanded": "./icons/folder_icons/folder_type_platformio_opened.svg"
+        },
+        "plugin": {
+          "collapsed": "./icons/folder_icons/folder_type_plugin.svg",
+          "expanded": "./icons/folder_icons/folder_type_plugin_opened.svg"
+        },
+        "plugins": {
+          "collapsed": "./icons/folder_icons/folder_type_plugin.svg",
+          "expanded": "./icons/folder_icons/folder_type_plugin_opened.svg"
+        },
+        "prisma": {
+          "collapsed": "./icons/folder_icons/folder_type_prisma.svg",
+          "expanded": "./icons/folder_icons/folder_type_prisma_opened.svg"
+        },
+        "private": {
+          "collapsed": "./icons/folder_icons/folder_type_private.svg",
+          "expanded": "./icons/folder_icons/folder_type_private_opened.svg"
+        },
+        "public": {
+          "collapsed": "./icons/folder_icons/folder_type_public.svg",
+          "expanded": "./icons/folder_icons/folder_type_public_opened.svg"
+        },
+        "pytest": {
+          "collapsed": "./icons/folder_icons/folder_type_pytest.svg",
+          "expanded": "./icons/folder_icons/folder_type_pytest_opened.svg"
+        },
+        ".pytest_cache": {
+          "collapsed": "./icons/folder_icons/folder_type_pytest.svg",
+          "expanded": "./icons/folder_icons/folder_type_pytest_opened.svg"
+        },
+        "python": {
+          "collapsed": "./icons/folder_icons/folder_type_python.svg",
+          "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
+        },
+        "__pycache__": {
+          "collapsed": "./icons/folder_icons/folder_type_python.svg",
+          "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
+        },
+        "ravendb": {
+          "collapsed": "./icons/folder_icons/folder_type_ravendb.svg",
+          "expanded": "./icons/folder_icons/folder_type_ravendb_opened.svg"
+        },
+        "redis": {
+          "collapsed": "./icons/folder_icons/folder_type_redis.svg",
+          "expanded": "./icons/folder_icons/folder_type_redis_opened.svg"
+        },
+        "redux": {
+          "collapsed": "./icons/folder_icons/folder_type_redux.svg",
+          "expanded": "./icons/folder_icons/folder_type_redux_opened.svg"
+        },
+        "route": {
+          "collapsed": "./icons/folder_icons/folder_type_route.svg",
+          "expanded": "./icons/folder_icons/folder_type_route_opened.svg"
+        },
+        "routes": {
+          "collapsed": "./icons/folder_icons/folder_type_route.svg",
+          "expanded": "./icons/folder_icons/folder_type_route_opened.svg"
+        },
+        "sass": {
+          "collapsed": "./icons/folder_icons/folder_type_sass.svg",
+          "expanded": "./icons/folder_icons/folder_type_sass_opened.svg"
+        },
+        "scss": {
+          "collapsed": "./icons/folder_icons/folder_type_sass.svg",
+          "expanded": "./icons/folder_icons/folder_type_sass_opened.svg"
+        },
+        "script": {
+          "collapsed": "./icons/folder_icons/folder_type_script.svg",
+          "expanded": "./icons/folder_icons/folder_type_script_opened.svg"
+        },
+        "scripts": {
+          "collapsed": "./icons/folder_icons/folder_type_script.svg",
+          "expanded": "./icons/folder_icons/folder_type_script_opened.svg"
+        },
+        "seedkit": {
+          "collapsed": "./icons/folder_icons/folder_type_seedkit.svg",
+          "expanded": "./icons/folder_icons/folder_type_seedkit_opened.svg"
+        },
+        "server": {
+          "collapsed": "./icons/folder_icons/folder_type_server.svg",
+          "expanded": "./icons/folder_icons/folder_type_server_opened.svg"
+        },
+        "servers": {
+          "collapsed": "./icons/folder_icons/folder_type_server.svg",
+          "expanded": "./icons/folder_icons/folder_type_server_opened.svg"
+        },
+        "service": {
+          "collapsed": "./icons/folder_icons/folder_type_services.svg",
+          "expanded": "./icons/folder_icons/folder_type_services_opened.svg"
+        },
+        "services": {
+          "collapsed": "./icons/folder_icons/folder_type_services.svg",
+          "expanded": "./icons/folder_icons/folder_type_services_opened.svg"
+        },
+        "shared": {
+          "collapsed": "./icons/folder_icons/folder_type_shared.svg",
+          "expanded": "./icons/folder_icons/folder_type_shared_opened.svg"
+        },
+        "snaplet": {
+          "collapsed": "./icons/folder_icons/folder_type_snaplet.svg",
+          "expanded": "./icons/folder_icons/folder_type_snaplet_opened.svg"
+        },
+        ".snaplet": {
+          "collapsed": "./icons/folder_icons/folder_type_snaplet.svg",
+          "expanded": "./icons/folder_icons/folder_type_snaplet_opened.svg"
+        },
+        "spin": {
+          "collapsed": "./icons/folder_icons/folder_type_spin.svg",
+          "expanded": "./icons/folder_icons/folder_type_spin_opened.svg"
+        },
+        "src": {
+          "collapsed": "./icons/folder_icons/folder_type_src.svg",
+          "expanded": "./icons/folder_icons/folder_type_src_opened.svg"
+        },
+        "source": {
+          "collapsed": "./icons/folder_icons/folder_type_src.svg",
+          "expanded": "./icons/folder_icons/folder_type_src_opened.svg"
+        },
+        "sources": {
+          "collapsed": "./icons/folder_icons/folder_type_src.svg",
+          "expanded": "./icons/folder_icons/folder_type_src_opened.svg"
+        },
+        "sso": {
+          "collapsed": "./icons/folder_icons/folder_type_sso.svg",
+          "expanded": "./icons/folder_icons/folder_type_sso_opened.svg"
+        },
+        "story": {
+          "collapsed": "./icons/folder_icons/folder_type_story.svg",
+          "expanded": "./icons/folder_icons/folder_type_story_opened.svg"
+        },
+        "stories": {
+          "collapsed": "./icons/folder_icons/folder_type_story.svg",
+          "expanded": "./icons/folder_icons/folder_type_story_opened.svg"
+        },
+        "__stories__": {
+          "collapsed": "./icons/folder_icons/folder_type_story.svg",
+          "expanded": "./icons/folder_icons/folder_type_story_opened.svg"
+        },
+        "style": {
+          "collapsed": "./icons/folder_icons/folder_type_style.svg",
+          "expanded": "./icons/folder_icons/folder_type_style_opened.svg"
+        },
+        "styles": {
+          "collapsed": "./icons/folder_icons/folder_type_style.svg",
+          "expanded": "./icons/folder_icons/folder_type_style_opened.svg"
+        },
+        "supabase": {
+          "collapsed": "./icons/folder_icons/folder_type_supabase.svg",
+          "expanded": "./icons/folder_icons/folder_type_supabase_opened.svg"
+        },
+        ".supabase": {
+          "collapsed": "./icons/folder_icons/folder_type_supabase.svg",
+          "expanded": "./icons/folder_icons/folder_type_supabase_opened.svg"
+        },
+        "svelte": {
+          "collapsed": "./icons/folder_icons/folder_type_svelte.svg",
+          "expanded": "./icons/folder_icons/folder_type_svelte_opened.svg"
+        },
+        ".svelte-kit": {
+          "collapsed": "./icons/folder_icons/folder_type_svelte.svg",
+          "expanded": "./icons/folder_icons/folder_type_svelte_opened.svg"
+        },
+        "tauri": {
+          "collapsed": "./icons/folder_icons/folder_type_tauri.svg",
+          "expanded": "./icons/folder_icons/folder_type_tauri_opened.svg"
+        },
+        "src-tauri": {
+          "collapsed": "./icons/folder_icons/folder_type_tauri.svg",
+          "expanded": "./icons/folder_icons/folder_type_tauri_opened.svg"
+        },
+        "temp": {
+          "collapsed": "./icons/folder_icons/folder_type_temp.svg",
+          "expanded": "./icons/folder_icons/folder_type_temp_opened.svg"
+        },
+        "tmp": {
+          "collapsed": "./icons/folder_icons/folder_type_temp.svg",
+          "expanded": "./icons/folder_icons/folder_type_temp_opened.svg"
+        },
+        "template": {
+          "collapsed": "./icons/folder_icons/folder_type_template.svg",
+          "expanded": "./icons/folder_icons/folder_type_template_opened.svg"
+        },
+        "templates": {
+          "collapsed": "./icons/folder_icons/folder_type_template.svg",
+          "expanded": "./icons/folder_icons/folder_type_template_opened.svg"
+        },
+        "test": {
+          "collapsed": "./icons/folder_icons/folder_type_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_test_opened.svg"
+        },
+        "tests": {
+          "collapsed": "./icons/folder_icons/folder_type_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_test_opened.svg"
+        },
+        "__tests__": {
+          "collapsed": "./icons/folder_icons/folder_type_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_test_opened.svg"
+        },
+        "spec": {
+          "collapsed": "./icons/folder_icons/folder_type_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_test_opened.svg"
+        },
+        "specs": {
+          "collapsed": "./icons/folder_icons/folder_type_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_test_opened.svg"
+        },
+        "theme": {
+          "collapsed": "./icons/folder_icons/folder_type_theme.svg",
+          "expanded": "./icons/folder_icons/folder_type_theme_opened.svg"
+        },
+        "themes": {
+          "collapsed": "./icons/folder_icons/folder_type_theme.svg",
+          "expanded": "./icons/folder_icons/folder_type_theme_opened.svg"
+        },
+        "tool": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "tools": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "util": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "utils": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "utility": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "utilities": {
+          "collapsed": "./icons/folder_icons/folder_type_tools.svg",
+          "expanded": "./icons/folder_icons/folder_type_tools_opened.svg"
+        },
+        "travis": {
+          "collapsed": "./icons/folder_icons/folder_type_travis.svg",
+          "expanded": "./icons/folder_icons/folder_type_travis_opened.svg"
+        },
+        ".travis": {
+          "collapsed": "./icons/folder_icons/folder_type_travis.svg",
+          "expanded": "./icons/folder_icons/folder_type_travis_opened.svg"
+        },
+        "trunk": {
+          "collapsed": "./icons/folder_icons/folder_type_trunk.svg",
+          "expanded": "./icons/folder_icons/folder_type_trunk_opened.svg"
+        },
+        ".trunk": {
+          "collapsed": "./icons/folder_icons/folder_type_trunk.svg",
+          "expanded": "./icons/folder_icons/folder_type_trunk_opened.svg"
+        },
+        "turbo": {
+          "collapsed": "./icons/folder_icons/folder_type_turbo.svg",
+          "expanded": "./icons/folder_icons/folder_type_turbo_opened.svg"
+        },
+        ".turbo": {
+          "collapsed": "./icons/folder_icons/folder_type_turbo.svg",
+          "expanded": "./icons/folder_icons/folder_type_turbo_opened.svg"
+        },
+        "ts": {
+          "collapsed": "./icons/folder_icons/folder_type_typescript.svg",
+          "expanded": "./icons/folder_icons/folder_type_typescript_opened.svg"
+        },
+        "typescript": {
+          "collapsed": "./icons/folder_icons/folder_type_typescript.svg",
+          "expanded": "./icons/folder_icons/folder_type_typescript_opened.svg"
+        },
+        "typings": {
+          "collapsed": "./icons/folder_icons/folder_type_typings.svg",
+          "expanded": "./icons/folder_icons/folder_type_typings_opened.svg"
+        },
+        "vagrant": {
+          "collapsed": "./icons/folder_icons/folder_type_vagrant.svg",
+          "expanded": "./icons/folder_icons/folder_type_vagrant_opened.svg"
+        },
+        ".vagrant": {
+          "collapsed": "./icons/folder_icons/folder_type_vagrant.svg",
+          "expanded": "./icons/folder_icons/folder_type_vagrant_opened.svg"
+        },
+        "vercel": {
+          "collapsed": "./icons/folder_icons/folder_type_vercel.svg",
+          "expanded": "./icons/folder_icons/folder_type_vercel_opened.svg"
+        },
+        ".vercel": {
+          "collapsed": "./icons/folder_icons/folder_type_vercel.svg",
+          "expanded": "./icons/folder_icons/folder_type_vercel_opened.svg"
+        },
+        "video": {
+          "collapsed": "./icons/folder_icons/folder_type_video.svg",
+          "expanded": "./icons/folder_icons/folder_type_video_opened.svg"
+        },
+        "videos": {
+          "collapsed": "./icons/folder_icons/folder_type_video.svg",
+          "expanded": "./icons/folder_icons/folder_type_video_opened.svg"
+        },
+        "movie": {
+          "collapsed": "./icons/folder_icons/folder_type_video.svg",
+          "expanded": "./icons/folder_icons/folder_type_video_opened.svg"
+        },
+        "movies": {
+          "collapsed": "./icons/folder_icons/folder_type_video.svg",
+          "expanded": "./icons/folder_icons/folder_type_video_opened.svg"
+        },
+        "view": {
+          "collapsed": "./icons/folder_icons/folder_type_view.svg",
+          "expanded": "./icons/folder_icons/folder_type_view_opened.svg"
+        },
+        "views": {
+          "collapsed": "./icons/folder_icons/folder_type_view.svg",
+          "expanded": "./icons/folder_icons/folder_type_view_opened.svg"
+        },
+        "vs": {
+          "collapsed": "./icons/folder_icons/folder_type_vs.svg",
+          "expanded": "./icons/folder_icons/folder_type_vs_opened.svg"
+        },
+        "vscode": {
+          "collapsed": "./icons/folder_icons/folder_type_vscode.svg",
+          "expanded": "./icons/folder_icons/folder_type_vscode_opened.svg"
+        },
+        ".vscode": {
+          "collapsed": "./icons/folder_icons/folder_type_vscode.svg",
+          "expanded": "./icons/folder_icons/folder_type_vscode_opened.svg"
+        },
+        "vscode_test": {
+          "collapsed": "./icons/folder_icons/folder_type_vscode_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_vscode_test_opened.svg"
+        },
+        ".vscode-test": {
+          "collapsed": "./icons/folder_icons/folder_type_vscode_test.svg",
+          "expanded": "./icons/folder_icons/folder_type_vscode_test_opened.svg"
+        },
+        "webpack": {
+          "collapsed": "./icons/folder_icons/folder_type_webpack.svg",
+          "expanded": "./icons/folder_icons/folder_type_webpack_opened.svg"
+        },
+        ".webpack": {
+          "collapsed": "./icons/folder_icons/folder_type_webpack.svg",
+          "expanded": "./icons/folder_icons/folder_type_webpack_opened.svg"
+        },
+        "windows": {
+          "collapsed": "./icons/folder_icons/folder_type_windows.svg",
+          "expanded": "./icons/folder_icons/folder_type_windows_opened.svg"
+        },
+        "win": {
+          "collapsed": "./icons/folder_icons/folder_type_windows.svg",
+          "expanded": "./icons/folder_icons/folder_type_windows_opened.svg"
+        },
+        "wit": {
+          "collapsed": "./icons/folder_icons/folder_type_wit.svg",
+          "expanded": "./icons/folder_icons/folder_type_wit_opened.svg"
+        },
+        "www": {
+          "collapsed": "./icons/folder_icons/folder_type_www.svg",
+          "expanded": "./icons/folder_icons/folder_type_www_opened.svg"
+        },
+        "web": {
+          "collapsed": "./icons/folder_icons/folder_type_www.svg",
+          "expanded": "./icons/folder_icons/folder_type_www_opened.svg"
+        },
+        "yarn": {
+          "collapsed": "./icons/folder_icons/folder_type_yarn.svg",
+          "expanded": "./icons/folder_icons/folder_type_yarn_opened.svg"
+        },
+        ".yarn": {
+          "collapsed": "./icons/folder_icons/folder_type_yarn.svg",
+          "expanded": "./icons/folder_icons/folder_type_yarn_opened.svg"
+        }
+      },
       "file_stems": {
         "astroconfig": "astroconfig",
         "aws": "aws",
@@ -4624,6 +7212,12 @@
         "policyfile.rb": "chef",
         "class": "class",
         "claude.md": "claude",
+        "CLAUDE.md": "claude",
+        "agents.md": "agents",
+        "AGENTS.md": "agents",
+        "gemini.md": "gemini",
+        "GEMINI.md": "gemini",
+        "uv.lock": "uv",
         "circle.yml": "circleci",
         "cljc": "clojure",
         "cjm": "clojure",
@@ -5247,6 +7841,7 @@
         ".nsrirc": "nsri",
         ".integrity.json": "nsri-integrity",
         "nuspec": "nuget",
+        "spec": "config",
         "nupkg": "nuget",
         "psmdcp": "nuget",
         "snupkg": "nuget",
@@ -5762,7 +8357,7 @@
         ".yaspellerrc": "yandex",
         ".yaspeller.json": "yandex",
         "yang": "yang",
-        "lock": "yarn",
+        "lock": "package",
         "yarn.lock": "yarn",
         ".yarnrc": "yarn",
         ".yarn-state.yml": "yarn",
@@ -6260,6 +8855,15 @@
         },
         "claude": {
           "path": "./icons/file_icons/file_type_claude.svg"
+        },
+        "agents": {
+          "path": "./icons/file_icons/file_type_agents.svg"
+        },
+        "gemini": {
+          "path": "./icons/file_icons/file_type_gemini.svg"
+        },
+        "uv": {
+          "path": "./icons/file_icons/file_type_uv.svg"
         },
         "circleci": {
           "path": "./icons/file_icons/file_type_circleci.svg"
