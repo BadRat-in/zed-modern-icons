@@ -1,6 +1,6 @@
 id = "modern-icons"
 name = "Modern Icons Theme"
-version = "0.7.0"
+version = "0.7.1"
 schema_version = 1
 authors = ["Ravindra Singh <ravindra@budgurjar.org>"]
 description = "VSCode icons theme for Zed"
