@@ -979,6 +979,10 @@
           "collapsed": "./icons/folder_icons/folder_type_python.svg",
           "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
         },
+        ".ropeproject": {
+          "collapsed": "./icons/folder_icons/folder_type_python.svg",
+          "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
+        },
         "ravendb": {
           "collapsed": "./icons/folder_icons/folder_type_ravendb.svg",
           "expanded": "./icons/folder_icons/folder_type_ravendb_opened.svg"
@@ -7035,6 +7039,10 @@
           "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
         },
         "__pycache__": {
+          "collapsed": "./icons/folder_icons/folder_type_python.svg",
+          "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
+        },
+        ".ropeproject": {
           "collapsed": "./icons/folder_icons/folder_type_python.svg",
           "expanded": "./icons/folder_icons/folder_type_python_opened.svg"
         },
